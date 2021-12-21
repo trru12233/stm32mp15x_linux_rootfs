@@ -1,0 +1,5 @@
+0bbb39a268c5f19f25c5a59220fc7080  usr/include/ffi-32.h
+0013e135a4f0b8a63d750e3921dd1247  usr/include/ffi.h
+239b6fc62868fbe03e133c7e1904340e  usr/include/ffitarget-32.h
+bc754461e63d4a10157453105961c608  usr/include/ffitarget.h
+fdc326e26229ea9219e7434531cf33d9  usr/lib/pkgconfig/libffi.pc

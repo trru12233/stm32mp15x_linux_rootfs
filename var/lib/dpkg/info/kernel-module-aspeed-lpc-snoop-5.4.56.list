@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/soc
+/lib/modules/5.4.56/kernel/drivers/soc/aspeed
+/lib/modules/5.4.56/kernel/drivers/soc/aspeed/aspeed-lpc-snoop.ko

@@ -1,0 +1,3 @@
+b71605614332584b749f18913b4cccba  lib/systemd/system/iiod.service
+887fd2e8e59da2463c3123638d80c414  lib/systemd/system-preset/98-libiio-iiod.preset
+85a2b0414daa720c89c77a17d10c57ec  usr/sbin/iiod

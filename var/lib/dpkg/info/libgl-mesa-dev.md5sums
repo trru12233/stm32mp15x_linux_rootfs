@@ -1,0 +1,7 @@
+4fc52ea6002b22ad952bb66df2bdf3e5  usr/include/GL/gl.h
+071e04bdddf8ac72c50698dd45ee598d  usr/include/GL/glcorearb.h
+12f4e02a27d98a71a05a2f8a70e2dee8  usr/include/GL/glext.h
+e99cb713bf53f98f5e6a5f6cb81d058e  usr/include/GL/glx.h
+a34afdff61907efe3404fffef7c8badf  usr/include/GL/glxext.h
+65c2312a196fd1e5a1bea47ce74c22be  usr/include/GL/internal/dri_interface.h
+11345c7090fcb146f484b9f57164668f  usr/lib/pkgconfig/gl.pc

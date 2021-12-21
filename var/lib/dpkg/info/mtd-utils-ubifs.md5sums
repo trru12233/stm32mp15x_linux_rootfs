@@ -1,0 +1,13 @@
+4aabdaca3e60a528f71b632c898dd261  usr/sbin/mkfs.ubifs
+3ce389d74da754d09fa16bd75e8ebe76  usr/sbin/ubiattach.mtd-utils
+ec9c1799b23bc0a22e8370575b1e71b8  usr/sbin/ubiblock
+060855ed6a1a2ae1e78f5e9d17929c08  usr/sbin/ubicrc32
+33fad9a98ac0d95bdba80a04a68d3d1e  usr/sbin/ubidetach.mtd-utils
+59ce277bb5f29704d38b8a68069c0a1a  usr/sbin/ubiformat
+bb6bc772a9a141854415db828f5dd0a6  usr/sbin/ubimkvol.mtd-utils
+4c1f89b85445c1340ee1953251d714e6  usr/sbin/ubinfo
+4dbac2e21a92dfe2bf20072716c93f00  usr/sbin/ubinize
+4dd9eb4fce5c163fb85c2278d0e54f1a  usr/sbin/ubirename.mtd-utils
+e86a59455d8958b11c27949688187f96  usr/sbin/ubirmvol.mtd-utils
+e9781bf8ae861bb84ca5c065ef873367  usr/sbin/ubirsvol.mtd-utils
+eea807853c0508bf3a82d024901edc95  usr/sbin/ubiupdatevol.mtd-utils

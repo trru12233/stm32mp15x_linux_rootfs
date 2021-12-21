@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/net
+/lib/modules/5.4.56/kernel/drivers/net/wireless
+/lib/modules/5.4.56/kernel/drivers/net/wireless/ralink
+/lib/modules/5.4.56/kernel/drivers/net/wireless/ralink/rt2x00
+/lib/modules/5.4.56/kernel/drivers/net/wireless/ralink/rt2x00/rt2800usb.ko

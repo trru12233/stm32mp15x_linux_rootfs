@@ -1,0 +1,11 @@
+[Unit]
+Description=Link Linux Kernel Modules
+After=systemd-remount-fs.service
+DefaultDependencies=no
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/link-modules.sh
+
+[Install]
+WantedBy=multi-user.target

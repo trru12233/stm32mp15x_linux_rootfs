@@ -1,0 +1,15 @@
+4b3f5d7d89f108c88b88733f107a713e  etc/bash_completion.d/perf
+2b5a273a7d92fbadda93bad6dc5efb38  usr/bin/perf
+2b5a273a7d92fbadda93bad6dc5efb38  usr/bin/trace
+490928d7b46352a1f62fec364764a3e6  usr/lib/traceevent/plugins/plugin_cfg80211.so
+8bf73f08608a7b55a6730c4732742b77  usr/lib/traceevent/plugins/plugin_function.so
+89f373f1ec3798f51cf32c43535b0bfd  usr/lib/traceevent/plugins/plugin_hrtimer.so
+b042e90b2e7592543b76b5f7696794ad  usr/lib/traceevent/plugins/plugin_jbd2.so
+7d5fb7f33b677258acecb229d40fafe8  usr/lib/traceevent/plugins/plugin_kmem.so
+5de9e0708d7b08a473b70d6be631c184  usr/lib/traceevent/plugins/plugin_kvm.so
+8d8afed46251d66fb6cc059a469e3ab4  usr/lib/traceevent/plugins/plugin_mac80211.so
+f7fbdabeac0f2c1476d4d1a0e2ea484c  usr/lib/traceevent/plugins/plugin_sched_switch.so
+a57ca5f9ae325ac2958efd5f26df6ac0  usr/lib/traceevent/plugins/plugin_scsi.so
+2a945e404206069bc7475862af1bee09  usr/lib/traceevent/plugins/plugin_xen.so
+23ef3036cf6814688e1069b3705e472b  usr/libexec/perf-core/perf-archive
+2799d32dbb9f40f98de25dcaaa2b5b9a  usr/libexec/perf-core/perf-with-kcore

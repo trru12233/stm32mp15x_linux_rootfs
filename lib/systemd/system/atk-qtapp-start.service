@@ -1,0 +1,13 @@
+[Unit]
+Description=Qt App Start
+After=systemd-remount-fs.service
+DefaultDependencies=no
+
+[Service]
+EnvironmentFile=/etc/default/atk-qtenv
+Type=simple
+ExecStart=/usr/local/QDesktop-fb -platform linuxfb
+#ExecStart=/usr/local/QDesktop-egl -platform eglfs
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/net
+/lib/modules/5.4.56/kernel/net/ipv6
+/lib/modules/5.4.56/kernel/net/ipv6/netfilter
+/lib/modules/5.4.56/kernel/net/ipv6/netfilter/ip6t_ah.ko

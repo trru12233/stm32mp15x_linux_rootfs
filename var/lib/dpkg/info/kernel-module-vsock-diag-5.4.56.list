@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/net
+/lib/modules/5.4.56/kernel/net/vmw_vsock
+/lib/modules/5.4.56/kernel/net/vmw_vsock/vsock_diag.ko

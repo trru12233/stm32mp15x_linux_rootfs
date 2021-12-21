@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/input
+/lib/modules/5.4.56/kernel/drivers/input/misc
+/lib/modules/5.4.56/kernel/drivers/input/misc/max8997_haptic.ko

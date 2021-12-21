@@ -1,0 +1,7 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/network
+/lib/systemd/network/50-wired-nfs.network
+/lib/systemd/network/51-wireless.network.sample
+/lib/systemd/network/52-static.network.static

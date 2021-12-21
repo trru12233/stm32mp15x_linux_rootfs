@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/Qt
+/usr/lib/qml/Qt/WebSockets
+/usr/lib/qml/Qt/WebSockets/qmldir
+/usr/lib/qml/QtWebSockets
+/usr/lib/qml/QtWebSockets/libdeclarative_qmlwebsockets.so
+/usr/lib/qml/QtWebSockets/plugins.qmltypes
+/usr/lib/qml/QtWebSockets/qmldir

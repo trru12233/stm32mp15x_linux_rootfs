@@ -1,0 +1,7 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/modules.builtin
+/lib/modules/5.4.56/modules.builtin.modinfo
+/lib/modules/5.4.56/modules.order

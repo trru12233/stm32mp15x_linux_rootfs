@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libweston-8
+/usr/lib/libweston-8/drm-backend.so
+/usr/lib/libweston-8/fbdev-backend.so
+/usr/lib/libweston-8/gl-renderer.so
+/usr/lib/libweston-8/wayland-backend.so
+/usr/lib/libweston-8/x11-backend.so
+/usr/lib/libweston-8.so.0.0.0
+/usr/lib/libweston-desktop-8.so.0.0.0
+/usr/lib/libweston-8.so.0
+/usr/lib/libweston-desktop-8.so.0

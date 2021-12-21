@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/watchdog
+/lib/modules/5.4.56/kernel/drivers/watchdog/da9063_wdt.ko

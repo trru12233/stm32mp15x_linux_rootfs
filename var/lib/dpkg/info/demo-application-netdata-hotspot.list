@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/default
+/etc/default/hostapd
+/usr
+/usr/local
+/usr/local/demo
+/usr/local/demo/application
+/usr/local/demo/application/000-netdata.yaml
+/usr/local/demo/application/netdata
+/usr/local/demo/application/netdata/__init__.py
+/usr/local/demo/application/netdata/bin
+/usr/local/demo/application/netdata/bin/build_qrcode.sh
+/usr/local/demo/application/netdata/netdata.py
+/usr/local/demo/application/netdata/pictures
+/usr/local/demo/application/netdata/pictures/netdata-icon-192x192.png

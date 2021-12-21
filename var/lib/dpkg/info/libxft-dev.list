@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/include
+/usr/include/X11
+/usr/include/X11/Xft
+/usr/include/X11/Xft/Xft.h
+/usr/include/X11/Xft/XftCompat.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xft.pc
+/usr/lib/libXft.so

@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtCharts
+/usr/lib/qml/QtCharts/libqtchartsqml2.so
+/usr/lib/qml/QtCharts/plugins.qmltypes
+/usr/lib/qml/QtCharts/qmldir

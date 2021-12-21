@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/psplash-drm-start.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-psplash-drm.preset
+/usr
+/usr/bin
+/usr/bin/psplash-drm
+/usr/bin/psplash-drm-quit

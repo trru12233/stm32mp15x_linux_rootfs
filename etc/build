@@ -1,0 +1,34 @@
+-----------------------
+Build Configuration:  |
+-----------------------
+BB_VERSION = 1.46.0
+BUILD_SYS = x86_64-linux
+NATIVELSBSTRING = universal
+TARGET_SYS = arm-ostl-linux-gnueabi
+MACHINE = stm32mp1
+DISTRO = openstlinux-weston
+DISTRO_VERSION = 3.1-snapshot-20210728
+TUNE_FEATURES = arm vfp cortexa7 neon vfpv4 thumb callconvention-hard
+TARGET_FPU = hard
+DISTRO_CODENAME = dunfell
+ACCEPT_EULA_stm32mp1 = 1
+GCCVERSION = 9.%
+PREFERRED_PROVIDER_virtual/kernel = linux-stm32mp
+PREFERRED_VERSION_linux-stm32mp = 
+-----------------------
+Layer Revisions:      |
+-----------------------
+meta-python       = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-oe           = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-gnome        = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-initramfs    = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-multimedia   = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-networking   = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-webserver    = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-filesystems  = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-perl         = HEAD:144077083457ccb75700777d5e6b1da9aaff01aa -- modified
+meta-st-stm32mp   = HEAD:955b1d9a5f706013d718687b1afa6e3022c68fac 
+meta-python2      = local-dunfell:b901080cf57d9a7f5476ab4d96e56c30db8170a8 
+meta-qt5          = HEAD:5e4815992b12eaace1d93f030cfb92a25e9ee11a -- modified
+meta-st-openstlinux = HEAD:9160c08dfcd0b7ec0eb8f1fd96672695b09680d5 -- modified
+meta              = HEAD:b39bda4cc62db12c0edfbe489d5a7f5988ede6a9 -- modified

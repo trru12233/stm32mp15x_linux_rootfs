@@ -1,0 +1,11 @@
+5b89a97ac92589cde2db46b6bba87055  usr/bin/qml
+ac57c06b0f2c95f189e0c29fb81ac269  usr/bin/qmlcachegen
+75395116e041be08b22ee542eefe5adc  usr/bin/qmleasing
+47b1f6fe85fda9894547896a841fcc51  usr/bin/qmlimportscanner
+7e0fa7ad4641aef40dd6b42948bd2319  usr/bin/qmllint
+3921761393a0e875c78a43aabdcb40a6  usr/bin/qmlmin
+6f741e07229c0f7b321c2f0dde7dbaf2  usr/bin/qmlplugindump
+2ea4fd0d43952aac3daf78adc7b5973c  usr/bin/qmlpreview
+cc429317bc3079c85737e9e96b9f7ce3  usr/bin/qmlprofiler
+c7f8ab195c68cf4a38b7325c792e24f1  usr/bin/qmlscene
+032eac0ec6f29217bd7dd993ab2d3428  usr/bin/qmltestrunner

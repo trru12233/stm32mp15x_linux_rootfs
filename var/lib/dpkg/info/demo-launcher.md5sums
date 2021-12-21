@@ -1,0 +1,13 @@
+d41d8cd98f00b204e9800998ecf8427e  usr/local/demo/application/__init__.py
+f7ef95c4d08afc1720e7b032cb6db893  usr/local/demo/board/stm32mp15
+e3dc8449f1a0035674979923c7be4e69  usr/local/demo/demo_launcher.py
+922fd0e20673a95da6e232740c41b091  usr/local/demo/pictures/ST10261_back_button_medium_grey.png
+fa655c9999369827e9e34ff7f85d0dbe  usr/local/demo/pictures/ST10261_play_button_medium_grey.png
+9855c41e2d4f1a42ea8b6fe2734852c1  usr/local/demo/pictures/ST11249_Module_STM32MP1_alpha.png
+ccf6d9ca360c5b118711b2c85cd916d5  usr/local/demo/pictures/ST13028_Linux_picto_13.png
+b6174ee75ebdbe424e9d9906c1b2b855  usr/local/demo/pictures/ST13340_Info_white.png
+34d23f14cd769ace540ee832731648f6  usr/local/demo/pictures/ST4439_ST_logo.png
+60ea80d98973ca44023e495da42e922a  usr/local/demo/pictures/close_70x70_white.png
+9a4209c63c5ad50b8d558e8c4f265de4  usr/local/demo/pictures/logo.png
+9855c41e2d4f1a42ea8b6fe2734852c1  usr/local/demo/pictures/next_alpha.png
+bf492f199de802ce8792291c7913dd99  usr/local/weston-start-at-startup/start_up_demo_launcher.sh

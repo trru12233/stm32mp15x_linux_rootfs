@@ -1,0 +1,8 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+if [ -z "$D" ]; then
+	depmod -a 5.4.56
+else
+	depmodwrapper -a -b $D 5.4.56
+fi

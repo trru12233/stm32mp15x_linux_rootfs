@@ -1,0 +1,14 @@
+5c770c83822d849f4126baf7a5011739  etc/dbus-1/system.d/pulseaudio-system.conf
+ff24d150a47395ca134cff38692c0d5c  etc/default/volatiles/volatiles.04_pulse
+0d6fa70a3c0589173caf6f58150a17d2  etc/profile.d/pulse_profile.sh
+006673242c04dc80b17e385808381b90  etc/pulse/daemon.conf
+409aec856836dd3d936e7230e080e923  etc/pulse/default.pa
+7375b62aef063b98309f3959c22622d0  etc/pulse/system.pa
+f91d66cb24a552ad42d8fba1d7bed91a  etc/xdg/autostart/pulseaudio.desktop
+02bcf48385c01a87eb830426b7f1cfe5  lib/systemd/system/pulseaudio.service
+224d8e1600c4bc5f3506ad9315f9fb00  lib/systemd/system/pulseaudio.socket
+b2b6ac17b0a66b357411ecb3e0193d1c  lib/systemd/system-preset/98-pulseaudio-server.preset
+cc001925eac194a038a020a00c71bd2c  lib/udev/rules.d/90-pulseaudio.rules
+c31e99f333160ff1e6d8c3bb9af3fabf  usr/bin/pactl
+d9d02aaa111f8961a8d7087fe564b0bc  usr/bin/pulseaudio
+69aef06fd5f9df1a145c9299fc8a5c92  usr/bin/start-pulseaudio-x11

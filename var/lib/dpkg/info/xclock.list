@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/xclock
+/usr/share
+/usr/share/X11
+/usr/share/X11/app-defaults
+/usr/share/X11/app-defaults/XClock
+/usr/share/X11/app-defaults/XClock-color

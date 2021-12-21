@@ -1,0 +1,3 @@
+7aaf2124bf87fdbcdadd9f9887f4b669  lib/systemd/system/wifi-brcmfmac-sleep.service
+14c7523e3a863763ba1f95de1b96208f  lib/systemd/system-preset/98-wifi-suspend.preset
+d3b3626494ab9d0034a1dffc1d985130  usr/bin/wifi_brcmfmac_driver.sh

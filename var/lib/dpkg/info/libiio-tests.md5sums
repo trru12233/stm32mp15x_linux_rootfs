@@ -1,0 +1,7 @@
+161ce33cd61139506e90b6bb374551c7  usr/bin/iio_adi_xflow_check
+8848f6b02117d090a66eb06cf000901f  usr/bin/iio_attr
+7ebaaee8ef650e212c76c613e03e40a3  usr/bin/iio_genxml
+8124d681326f479bca92ab262ab877ba  usr/bin/iio_info
+2fded4c7510c18e96a21e3d12adef361  usr/bin/iio_readdev
+95a1f3d08d4f25cec31c05cb4509e493  usr/bin/iio_reg
+b747a66d23fff5221cebb1519f2a3606  usr/bin/iio_writedev

@@ -1,0 +1,15 @@
+33ca494db3b6fbdcf133003f3929323d  usr/lib/mkspecs/features/qmlcache.prf
+6e7fa368580ab2064f75de70974a810c  usr/lib/mkspecs/features/qtquickcompiler.prf
+3a85e980a9500c37df5a87c17e4a0a00  usr/lib/mkspecs/modules/qt_lib_packetprotocol_private.pri
+f53c10c06b8c6b6b1042fca5ea96d565  usr/lib/mkspecs/modules/qt_lib_qml.pri
+0723f2460f3ea08c0b379cbaa68b8486  usr/lib/mkspecs/modules/qt_lib_qml_private.pri
+f30a2c0224dfebebec408f1da9102a81  usr/lib/mkspecs/modules/qt_lib_qmldebug_private.pri
+1d114a4b2139418b66ebed4d1b54a0a3  usr/lib/mkspecs/modules/qt_lib_qmldevtools_private.pri
+63e03a6257badf597ad9101782151d38  usr/lib/mkspecs/modules/qt_lib_qmltest.pri
+006ab024d7730933aacc44fc2851cdd4  usr/lib/mkspecs/modules/qt_lib_qmltest_private.pri
+8797c1cb8acd1fdedcfc8d7e991602b2  usr/lib/mkspecs/modules/qt_lib_quick.pri
+b1b8a66dd6ff3b01cfd67c25c43be5f2  usr/lib/mkspecs/modules/qt_lib_quick_private.pri
+0ede2c1632cc100ae5d7df7b7a21eb75  usr/lib/mkspecs/modules/qt_lib_quickparticles_private.pri
+b5fdb4a0e8fbfac24d1f57c12eae176d  usr/lib/mkspecs/modules/qt_lib_quickshapes_private.pri
+72f77c69bfa13577327ad1f45bea1b90  usr/lib/mkspecs/modules/qt_lib_quickwidgets.pri
+735c8462c7b884b304a5c10ca4aaf697  usr/lib/mkspecs/modules/qt_lib_quickwidgets_private.pri

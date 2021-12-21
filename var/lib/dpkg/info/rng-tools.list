@@ -1,0 +1,15 @@
+/.
+/etc
+/etc/default
+/etc/default/rng-tools
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/rngd.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-rng-tools.preset
+/usr
+/usr/bin
+/usr/bin/rngtest
+/usr/sbin
+/usr/sbin/rngd

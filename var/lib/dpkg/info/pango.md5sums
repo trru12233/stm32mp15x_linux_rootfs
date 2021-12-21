@@ -1,0 +1,12 @@
+1e5d917b7aa8caeda63344b28fe3652d  usr/bin/pango-list
+03bae7655300827f937d549ae120f244  usr/bin/pango-view
+f413931139e2fada3cf8f70b77eb1901  usr/lib/girepository-1.0/Pango-1.0.typelib
+56eb2fcd8d073a316c3c60909af1c9fc  usr/lib/girepository-1.0/PangoCairo-1.0.typelib
+c30625f678cb189694c0068a651821f8  usr/lib/girepository-1.0/PangoFT2-1.0.typelib
+edb4910641715257dfb65d17c1fdfcf1  usr/lib/girepository-1.0/PangoFc-1.0.typelib
+f878f7b65f7975de40faea2f70f54588  usr/lib/girepository-1.0/PangoOT-1.0.typelib
+079cb3f588a3a3d949b41f44e44805ff  usr/lib/girepository-1.0/PangoXft-1.0.typelib
+1bd967a9751142f673c55f009b9dd57c  usr/lib/libpango-1.0.so.0.4400.7
+06aa21466e1b6aba88d9ad9a350ead11  usr/lib/libpangocairo-1.0.so.0.4400.7
+391394b536beac97adf83b41d6269c4b  usr/lib/libpangoft2-1.0.so.0.4400.7
+aa98831c534139452651f416c34c7bbb  usr/lib/libpangoxft-1.0.so.0.4400.7

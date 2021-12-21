@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/include
+/usr/include/libevdev-1.0
+/usr/include/libevdev-1.0/libevdev
+/usr/include/libevdev-1.0/libevdev/libevdev-uinput.h
+/usr/include/libevdev-1.0/libevdev/libevdev.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libevdev.pc
+/usr/lib/libevdev.so

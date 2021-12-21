@@ -1,0 +1,14 @@
+157c8a6b686a4fef7466c1cf624cdbd0  bin/chattr.e2fsprogs
+df38534cc670c70a91cf9b035845d244  etc/e2scrub.conf
+be112e02efa8fbff80c4f5a58d49d970  sbin/debugfs
+b8af22957a84b4f9a2c3934a3df62e9c  sbin/e2freefrag
+4235c806a2bbc0e402a6ea9f71fd0a1d  sbin/e2image
+83bfe2e6f3e404b1f03c77307fac9935  sbin/e2mmpstatus
+851cbb79eb83fb0edcb8027a034aed6c  sbin/e2undo
+bd72830ac4a513e6ade4f12fc424d1ed  sbin/e4crypt
+27ed5b8857f01564670053899f0b124d  sbin/e4defrag
+c4cc1948d6696a9b1fe9a1a6a770ce15  sbin/filefrag
+8cdeb9c726bfa656b49ffa1658797ec3  sbin/logsave
+7d205ea69f96a2d6ff7b2bbca4632668  sbin/mklost+found
+ce8bb1da35dc2b176cb9eb6323fb8643  sbin/populate-extfs.sh
+4e2a44b2d37b4128ca271ea1018f4cc4  usr/bin/lsattr

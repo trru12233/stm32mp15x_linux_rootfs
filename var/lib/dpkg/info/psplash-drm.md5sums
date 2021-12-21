@@ -1,0 +1,4 @@
+4652d212dee19571cb02b60b4c32fda5  lib/systemd/system/psplash-drm-start.service
+ae1ebd4b71dd8d0c43496d64af09e9d3  lib/systemd/system-preset/98-psplash-drm.preset
+ff542e25d696ee4357eb4a3a196087ff  usr/bin/psplash-drm
+806aad615cf9658967ed46d5356181f7  usr/bin/psplash-drm-quit

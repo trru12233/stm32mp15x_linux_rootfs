@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/editline
+/usr/include/editline/readline.h
+/usr/include/histedit.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libedit.pc
+/usr/lib/libedit.so

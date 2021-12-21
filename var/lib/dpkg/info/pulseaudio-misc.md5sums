@@ -1,0 +1,7 @@
+035120d5bcbb1b13a594b2d10f39fcb9  usr/bin/esdcompat
+e997d06256d15ded8409655342ea699e  usr/bin/pacat
+5d2285c8c8181d190b93838d075ddffa  usr/bin/pacmd
+827a248a7ff5aa418ec27f115c0c6ac6  usr/bin/padsp
+26442bf7c15d9ba9d8433f686b6ddbf2  usr/bin/pasuspender
+cc5812932288fcf8582aa8c3c300376e  usr/bin/pax11publish
+db3def124309e243dbfb9c740a8dd320  usr/lib/pulseaudio/libpulsedsp.so

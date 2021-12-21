@@ -1,0 +1,4 @@
+d94a4d7e9731384a3dc2c58e90c5880c  lib/systemd/system/tcf-agent.service
+8cd6f99d79a7fc917ee8b9393d57cd8a  lib/systemd/system-preset/98-tcf-agent.preset
+6135dd9aacc33cdb72e07f27c9d5f99e  usr/sbin/tcf-agent
+7a7df0751f7515a5bee13854547e126c  usr/sbin/tcf-client

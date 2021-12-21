@@ -1,0 +1,6 @@
+314219b4b82d62a14095b8462430a4fe  etc/asound-stm32mp15yx-dk.conf
+e2087d4fc5c5304065b8f064a3e9e8fc  etc/asound-stm32mp15yx-ev.conf
+19cd6fae5ec846dc7c5cc8f2dc381e47  lib/systemd/system-generators/system-generator-alsa-conf
+5b114b1f9354b077cbbf34bd9c6859be  lib/systemd/system-generators/system-generator-alsa-states
+8b4534195482918a376938b2e4e35942  var/lib/alsa/asound-stm32mp15yx-dk.state
+29f8b7fabd669e9db7ea72c2cbdb2215  var/lib/alsa/asound-stm32mp15yx-ev.state

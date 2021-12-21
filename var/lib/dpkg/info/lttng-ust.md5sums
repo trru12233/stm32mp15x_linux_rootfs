@@ -1,0 +1,10 @@
+ea61b38fe05b4d6baf08fa78b3791a6b  usr/lib/liblttng-ust-ctl.so.4.0.0
+b8c15d140c1ba733df0e0ed8836df027  usr/lib/liblttng-ust-cyg-profile-fast.so.0.0.0
+a4e4cf0692016321e682ff0dece60598  usr/lib/liblttng-ust-cyg-profile.so.0.0.0
+39747aa38d582c3b05264c913f20f46b  usr/lib/liblttng-ust-dl.so.0.0.0
+50a1a5b401c37adc39aa6a5f45a6cb47  usr/lib/liblttng-ust-fd.so.0.0.0
+f7173bbe0be728c5ce000e9e0307286e  usr/lib/liblttng-ust-fork.so.0.0.0
+0ae4896485303c7fefde2e874b265abe  usr/lib/liblttng-ust-libc-wrapper.so.0.0.0
+c968ba2e5952d5d0e44ed7099921daa0  usr/lib/liblttng-ust-pthread-wrapper.so.0.0.0
+944603f54648fada9238c976a0fe1095  usr/lib/liblttng-ust-tracepoint.so.0.0.0
+615df69ba395fbdcc366e48ec6e84216  usr/lib/liblttng-ust.so.0.0.0

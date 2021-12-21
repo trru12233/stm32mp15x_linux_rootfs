@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.8
+/usr/lib/python3.8/__pycache__
+/usr/lib/python3.8/__pycache__/getpass.cpython-38.opt-1.pyc
+/usr/lib/python3.8/__pycache__/getpass.cpython-38.opt-2.pyc
+/usr/lib/python3.8/__pycache__/getpass.cpython-38.pyc
+/usr/lib/python3.8/getpass.py
+/usr/lib/python3.8/lib-dynload
+/usr/lib/python3.8/lib-dynload/nis.cpython-38-arm-linux-gnueabi.so

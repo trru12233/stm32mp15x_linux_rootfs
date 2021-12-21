@@ -1,0 +1,12 @@
+/.
+/lib
+/usr
+/usr/include
+/usr/include/sys
+/usr/include/sys/capability.h
+/usr/include/sys/psx_syscall.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libcap.pc
+/usr/lib/pkgconfig/libpsx.pc
+/lib/libcap.so

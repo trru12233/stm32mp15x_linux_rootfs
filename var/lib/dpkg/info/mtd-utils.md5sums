@@ -1,0 +1,16 @@
+70fb4dac124ec6976b69bd5fe592efbd  usr/sbin/flash_erase
+a23e33542340ea348988f41a7ecd5412  usr/sbin/flash_eraseall.mtd-utils
+0e782a78ab6542b3350376dba07364e7  usr/sbin/flash_lock.mtd-utils
+473bded4996636950726eb655a993bbd  usr/sbin/flash_otp_dump
+30c90ed16254c711b62df73c20a26115  usr/sbin/flash_otp_info
+211264a58dcddacc0486b98f36368319  usr/sbin/flash_otp_lock
+fa83cd6619ad32c468f88b0be3a3b274  usr/sbin/flash_otp_write
+c03ff0690521b98d377183ce45b06fee  usr/sbin/flash_unlock.mtd-utils
+a72b6e50067bb3e7a5fd0f4d49e9a881  usr/sbin/flashcp.mtd-utils
+83eabf8cc091ed85674a77b44ee2468b  usr/sbin/lsmtd
+6501f6ed57fd1667250b3b6dbb3ba727  usr/sbin/mtd_debug
+ef1a0b3f687c8850e6d8f0a70ff88d54  usr/sbin/mtdinfo
+13eb436b31c49ff717751b18813565b5  usr/sbin/mtdpart
+6344171ccdd6fd89031f493f4a91d61a  usr/sbin/nanddump.mtd-utils
+8500d2d91cac9322c508e544eed4b006  usr/sbin/nandtest
+87a6fd5b3888ed58146b880f2ca3b8b8  usr/sbin/nandwrite.mtd-utils

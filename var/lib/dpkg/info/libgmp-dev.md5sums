@@ -1,0 +1,5 @@
+c58523aa19b623c48e540802ce285e64  usr/include/gmp-32.h
+7756d9ca337f20ef6c8f2a7fae5e12b6  usr/include/gmp.h
+ea3d21de4bcf7c696799c5c55dd3655b  usr/include/gmpxx.h
+5cc486a0a7b2a805f787ab9179ea99a0  usr/lib/pkgconfig/gmp.pc
+855aeaf87c73f53c4a5f979f167f8189  usr/lib/pkgconfig/gmpxx.pc

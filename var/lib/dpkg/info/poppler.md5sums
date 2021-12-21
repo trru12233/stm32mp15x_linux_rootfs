@@ -1,0 +1,15 @@
+22c353814dc9282605b1e47cc6830f0c  usr/bin/pdfattach
+fc678605ac346d45a41854fbe65c000e  usr/bin/pdfdetach
+116780d9d588c876a78c151115d11692  usr/bin/pdffonts
+413e37b012540ab0ca22fb1116a67cf8  usr/bin/pdfimages
+2a5993b9efb381837e838090add74c28  usr/bin/pdfinfo
+b094b8f2d584c83917ed1173d164759b  usr/bin/pdfseparate
+956b08b20b22fe7677dfd3b48545c9e2  usr/bin/pdfsig
+f1ffcc5762daabe5368f109f4d3e7089  usr/bin/pdftocairo
+4b4c089e356387128e5951150cc815cf  usr/bin/pdftohtml
+c3b07a5fed22c46982155386d6add4ea  usr/bin/pdftoppm
+e65abb1002ae3777591db453842f1b80  usr/bin/pdftops
+845d7fcb20ae06d11553429f0aed572e  usr/bin/pdftotext
+9040dd66f755d1fb0d98111bcf81e994  usr/bin/pdfunite
+e9cdb37c24eef8e7adcacb80cc28a3da  usr/lib/girepository-1.0/Poppler-0.18.typelib
+63b6c230300a1db5b2d4266d3594adf8  usr/lib/libpoppler-cpp.so.0.8.0

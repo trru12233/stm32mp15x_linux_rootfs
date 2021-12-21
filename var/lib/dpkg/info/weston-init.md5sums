@@ -1,0 +1,15 @@
+d41d8cd98f00b204e9800998ecf8427e  etc/default/weston
+24638b354d4aaf29f6bae6112ada1f1e  etc/profile.d/weston_profile.sh
+a44c8de0e6465f4afc9d26fd6781f57e  etc/udev/rules.d/71-weston-drm.rules
+d62c31473469f9927847e65af78a5dcd  etc/xdg/weston/weston.ini
+875209c63341c2d5133f8a2810d31c96  home/root/README-CHECK-GPU
+6bbf3bedd50cd088a37e1338be38f6b7  lib/systemd/system/weston@.service
+0def55ea50f66d95f9743f36ea0d4bc1  lib/systemd/system-preset/98-weston-init.preset
+f62b024fd8cd532b19f5bf8103395be1  sbin/check-gpu
+7c3146a1d484eb3c675c1341dc09bbe3  usr/bin/weston-start
+7812c2dc2cbee3680be480c7fe4ee9ee  usr/sbin/weston.sh
+8cc0a66ad7b7b6327ba26d8f249d0634  usr/share/weston/backgrounds/ST13028_Linux_picto_11_1366x768.png
+5aacf89143c774fdcf8431340324c078  usr/share/weston/backgrounds/ST_1366x768.png
+c6be3e39da775fc04d3ffa29468e481d  usr/share/weston/icon/ST13345_Products_light_blue_24x24.png
+1786b27c96e4a74c7e867b9447c61261  usr/share/weston/icon/space.png
+7137e27f254346000e8e85b7fa87336c  usr/share/weston/icon/utilities-terminal.png

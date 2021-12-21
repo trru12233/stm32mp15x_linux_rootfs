@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/pixman-1
+/usr/include/pixman-1/pixman-version.h
+/usr/include/pixman-1/pixman.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/pixman-1.pc
+/usr/lib/libpixman-1.so

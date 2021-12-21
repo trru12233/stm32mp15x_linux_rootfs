@@ -1,0 +1,25 @@
+#!/bin/sh
+set -e
+	update-alternatives --install /usr/sbin/ntpd ntpd /usr/sbin/ntpd.ntp 100
+if type systemctl >/dev/null 2>/dev/null; then
+	OPTS=""
+
+	if [ -n "$D" ]; then
+		OPTS="--root=$D"
+	fi
+
+	if [ "disable" = "enable" ]; then
+		for service in ntpd.service; do
+			systemctl ${OPTS} enable "$service"
+		done
+	fi
+
+	if [ -z "$D" ]; then
+		systemctl daemon-reload
+		systemctl preset ntpd.service
+
+		if [ "disable" = "enable" ]; then
+			systemctl --no-block restart ntpd.service
+		fi
+	fi
+fi

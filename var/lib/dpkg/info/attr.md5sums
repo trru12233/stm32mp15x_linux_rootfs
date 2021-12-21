@@ -1,0 +1,4 @@
+d1e7e7add29e247fdcf2a098fe5b37a0  etc/xattr.conf
+4c8ec1ba2eb3510b3cdf6dacaa4fff3e  usr/bin/attr
+f9c094f26d44493b0bc4bfebaf4861b8  usr/bin/getfattr
+91eba40ad6be38cd13f7134f17f4a64a  usr/bin/setfattr.attr

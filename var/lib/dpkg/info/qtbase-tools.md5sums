@@ -1,0 +1,11 @@
+e378a215e0acec96007cb4a02ab2d6be  usr/bin/fixqt4headers.pl
+8424bdfd32cc4293178a092e3b524044  usr/bin/moc
+2a74f6360d3d1ee288ab606662fe8467  usr/bin/qdbuscpp2xml
+173a2493ec8dae5825cdd40af14b0366  usr/bin/qdbusxml2cpp
+e09918bfcb32e098657c23fde94abfa4  usr/bin/qlalr
+bb6e9e27fd41ba8169e92eef68a02741  usr/bin/qmake
+a50088204dd180101370989bfd3c60ed  usr/bin/qt.conf
+b46bf17981ef04254374c21fcfb909cf  usr/bin/qvkgen
+707f0222c2bf4d7a802576635fc01c6c  usr/bin/rcc
+63fd25cff8c0b9bdd3760d881debd8ef  usr/bin/syncqt.pl
+57ca46c6d4a500d50a45f3c3951434ab  usr/bin/uic

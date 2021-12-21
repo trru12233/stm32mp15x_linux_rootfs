@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/apt
+/etc/apt/apt.conf.d
+/etc/apt/apt.conf.d/01-st-disclaimer
+/etc/apt/disclaimer
+/etc/apt/sources.list.d
+/etc/apt/sources.list.d/packages.openstlinux.st.com.list
+/etc/apt/trusted.gpg.d
+/etc/apt/trusted.gpg.d/packages.openstlinux.st.com.gpg

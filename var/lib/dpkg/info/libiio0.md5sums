@@ -1,0 +1,2 @@
+3a026abe334c0b71e2eb5a1a85a1c817  lib/udev/rules.d/90-libiio.rules
+76e670def5e61e9831c6fbab378fa5e1  usr/lib/libiio.so.0.15

@@ -1,0 +1,10 @@
+21a22b57eca739c8a7d32bfd16c945b2  usr/bin/gencat
+e90c6845fbf024c3a0ef5edb61d413df  usr/bin/getconf
+22005f6609b7ca4eaa5d7060b805d3e2  usr/bin/getent
+f3bd40aa9fbeaddc7eca981750f0b29b  usr/bin/iconv
+fdf13ef58819a7d9a79ec451df206a32  usr/bin/locale
+676f19e71022582a3c6f97c706107e9d  usr/bin/makedb
+b75c9a0608fce95c95846f9307c78d1a  usr/bin/pcprofiledump
+db436817a46f26ca2195fa4ff64741a5  usr/bin/pldd
+6a39a557a187ea7253e5e1cebc78294c  usr/bin/sprof
+c3d955bab39f9fc6236bf096cdfb7325  usr/sbin/iconvconfig

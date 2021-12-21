@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/plugins
+/usr/lib/plugins/canbus
+/usr/lib/plugins/canbus/libqtpassthrucanbus.so
+/usr/lib/plugins/canbus/libqtpeakcanbus.so
+/usr/lib/plugins/canbus/libqtsocketcanbus.so
+/usr/lib/plugins/canbus/libqttinycanbus.so
+/usr/lib/plugins/canbus/libqtvirtualcanbus.so

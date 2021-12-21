@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/include
+/usr/include/ogg
+/usr/include/ogg/config_types.h
+/usr/include/ogg/ogg.h
+/usr/include/ogg/os_types.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/ogg.pc
+/usr/share
+/usr/share/aclocal
+/usr/share/aclocal/ogg.m4
+/usr/lib/libogg.so

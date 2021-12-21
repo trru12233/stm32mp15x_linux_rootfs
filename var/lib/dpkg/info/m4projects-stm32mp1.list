@@ -1,0 +1,13 @@
+/.
+/etc
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/st-m4firmware-load.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-m4projects-stm32mp1.preset
+/lib/systemd/system-shutdown
+/lib/systemd/system-shutdown/shutdown-stm32mp1-m4.sh
+/sbin
+/sbin/shutdown-stm32mp1-m4.sh
+/sbin/st-m4firmware-load-default.sh

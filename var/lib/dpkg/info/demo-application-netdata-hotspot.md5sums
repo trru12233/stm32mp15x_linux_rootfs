@@ -1,0 +1,6 @@
+5afbb31ee05d8c96304566465df32e87  etc/default/hostapd
+835a5ce740cdba50241743c3aad53018  usr/local/demo/application/000-netdata.yaml
+d41d8cd98f00b204e9800998ecf8427e  usr/local/demo/application/netdata/__init__.py
+1c7a47adc99e1c73505d6173325cc7dd  usr/local/demo/application/netdata/bin/build_qrcode.sh
+e1d6a2388abe3bece69464729d4d5012  usr/local/demo/application/netdata/netdata.py
+ba46b60b8bae2f9a448a097a43f3ab8f  usr/local/demo/application/netdata/pictures/netdata-icon-192x192.png

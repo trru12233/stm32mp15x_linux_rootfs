@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/fixqt4headers.pl
+/usr/bin/moc
+/usr/bin/qdbuscpp2xml
+/usr/bin/qdbusxml2cpp
+/usr/bin/qlalr
+/usr/bin/qmake
+/usr/bin/qt.conf
+/usr/bin/qvkgen
+/usr/bin/rcc
+/usr/bin/syncqt.pl
+/usr/bin/uic

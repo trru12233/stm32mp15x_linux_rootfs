@@ -1,0 +1,6 @@
+e8045fb8fadece4fa46eab58d3c68d45  usr/include/pci/config-32.h
+efcc5bbb7ab0ae1483e2a265dc723465  usr/include/pci/config.h
+091fc5aed17398f9a05f947d4b998356  usr/include/pci/header.h
+ae220bb35a39a06eaed4af4f4f4b44b6  usr/include/pci/pci.h
+dc061d7941d96c8a0b2dc995f8d7a716  usr/include/pci/types.h
+39319e003fef7469647bf8a2ce594fc5  usr/lib/pkgconfig/libpci.pc

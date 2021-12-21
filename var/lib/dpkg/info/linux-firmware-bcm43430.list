@@ -1,0 +1,13 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/brcm
+/lib/firmware/brcm/brcmfmac43430-sdio.AP6212.txt
+/lib/firmware/brcm/brcmfmac43430-sdio.Hampoo-D2D3_Vi8A1.txt
+/lib/firmware/brcm/brcmfmac43430-sdio.MUR1DX.txt
+/lib/firmware/brcm/brcmfmac43430-sdio.bin
+/lib/firmware/brcm/brcmfmac43430-sdio.clm_blob
+/lib/firmware/brcm/brcmfmac43430-sdio.raspberrypi,3-model-b.txt
+/lib/firmware/brcm/brcmfmac43430-sdio.st,stm32mp157c-dk2.txt
+/lib/firmware/brcm/brcmfmac43430-sdio.st,stm32mp157f-dk2.txt
+/lib/firmware/brcm/brcmfmac43430-sdio.txt

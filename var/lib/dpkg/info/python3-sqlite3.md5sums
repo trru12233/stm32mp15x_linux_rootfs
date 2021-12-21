@@ -1,0 +1,13 @@
+5fcab5e7e45ff7b76176cef9d0742ec1  usr/lib/python3.8/lib-dynload/_sqlite3.cpython-38-arm-linux-gnueabi.so
+c780309c37e8a2e69ce7c5eb6e5f67b7  usr/lib/python3.8/sqlite3/__init__.py
+fcbb1380c58df5ecefe3c4657cf2371f  usr/lib/python3.8/sqlite3/__pycache__/__init__.cpython-38.opt-1.pyc
+fcbb1380c58df5ecefe3c4657cf2371f  usr/lib/python3.8/sqlite3/__pycache__/__init__.cpython-38.opt-2.pyc
+fcbb1380c58df5ecefe3c4657cf2371f  usr/lib/python3.8/sqlite3/__pycache__/__init__.cpython-38.pyc
+72412448e1cd5c162e9b944dc9737bd7  usr/lib/python3.8/sqlite3/__pycache__/dbapi2.cpython-38.opt-1.pyc
+72412448e1cd5c162e9b944dc9737bd7  usr/lib/python3.8/sqlite3/__pycache__/dbapi2.cpython-38.opt-2.pyc
+72412448e1cd5c162e9b944dc9737bd7  usr/lib/python3.8/sqlite3/__pycache__/dbapi2.cpython-38.pyc
+340af872c6e3fcfd1c57cf7cab902784  usr/lib/python3.8/sqlite3/__pycache__/dump.cpython-38.opt-1.pyc
+6a6168e5e5e79d5f1a9fa35f84a56a15  usr/lib/python3.8/sqlite3/__pycache__/dump.cpython-38.opt-2.pyc
+340af872c6e3fcfd1c57cf7cab902784  usr/lib/python3.8/sqlite3/__pycache__/dump.cpython-38.pyc
+e85cb4e63daccf94b34134029fda6033  usr/lib/python3.8/sqlite3/dbapi2.py
+9c5839cd6a2c84a3a48de6b7aee667cc  usr/lib/python3.8/sqlite3/dump.py

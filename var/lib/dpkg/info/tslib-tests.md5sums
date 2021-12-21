@@ -1,0 +1,9 @@
+66b97ffc71918ba6c9706c58a6c28371  usr/bin/ts_conf
+cbe012606293aeed77ec0cf975e6fd79  usr/bin/ts_finddev
+13f798c3ce7b3d75b2386dcd2db84fd8  usr/bin/ts_harvest
+61aecee396e82dafc9f02bbecdd8d931  usr/bin/ts_print
+57b3a2207870aaf9548877568b9f58f0  usr/bin/ts_print_mt
+1c0e2619dcde462e09efd408c6acd8fa  usr/bin/ts_print_raw
+2c1e2ecc748afa8150b440917f0e6b2f  usr/bin/ts_test
+42e8672ca4d22e889fe8bff52a858dfa  usr/bin/ts_test_mt
+c8cef501edb2616e3d00c88b71acd993  usr/bin/ts_verify

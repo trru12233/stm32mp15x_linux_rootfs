@@ -1,0 +1,7 @@
+2f6228c701eb9476dc2ccec4f2bb5e9c  usr/include/vorbis/codec.h
+6902bd5cefe9f9f2687c6b872a90a387  usr/include/vorbis/vorbisenc.h
+570d87df0d08fbf58ef17b8e9a21b63d  usr/include/vorbis/vorbisfile.h
+6658a17c65d194d9b0c69723e05599d8  usr/lib/pkgconfig/vorbis.pc
+06ac542b3e448093aaadc7a5c9bc94c2  usr/lib/pkgconfig/vorbisenc.pc
+bcc8f03b399f9250bfc6fcbb0968d6b6  usr/lib/pkgconfig/vorbisfile.pc
+5140e4c5a18d78bc55b075182d4232b3  usr/share/aclocal/vorbis.m4

@@ -1,0 +1,12 @@
+/.
+/etc
+/etc/u-boot-stm32mp-initial-env-stm32mp1-basic-2020.01.r2-r0
+/etc/u-boot-stm32mp-initial-env-stm32mp1-optee-2020.01.r2-r0
+/etc/u-boot-stm32mp-initial-env-stm32mp1-trusted-2020.01.r2-r0
+/etc/u-boot-stm32mp-initial-env
+/etc/u-boot-stm32mp-initial-env-basic
+/etc/u-boot-stm32mp-initial-env-optee
+/etc/u-boot-stm32mp-initial-env-stm32mp1-basic
+/etc/u-boot-stm32mp-initial-env-stm32mp1-optee
+/etc/u-boot-stm32mp-initial-env-stm32mp1-trusted
+/etc/u-boot-stm32mp-initial-env-trusted

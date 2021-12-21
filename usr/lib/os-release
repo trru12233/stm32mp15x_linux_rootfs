@@ -1,0 +1,5 @@
+ID=openstlinux-weston
+NAME="ST OpenSTLinux - Weston - (A Yocto Project Based Distro)"
+VERSION="3.1-snapshot-20210709 (dunfell)"
+VERSION_ID=3.1-snapshot-20210709
+PRETTY_NAME="ST OpenSTLinux - Weston - (A Yocto Project Based Distro) 3.1-snapshot-20210709 (dunfell)"

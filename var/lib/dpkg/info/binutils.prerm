@@ -1,0 +1,21 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  addr2line /usr/bin/arm-ostl-linux-gnueabi-addr2line
+	update-alternatives --remove  ar /usr/bin/arm-ostl-linux-gnueabi-ar
+	update-alternatives --remove  as /usr/bin/arm-ostl-linux-gnueabi-as
+	update-alternatives --remove  c++filt /usr/bin/arm-ostl-linux-gnueabi-c++filt
+	update-alternatives --remove  elfedit /usr/bin/arm-ostl-linux-gnueabi-elfedit
+	update-alternatives --remove  gprof /usr/bin/arm-ostl-linux-gnueabi-gprof
+	update-alternatives --remove  ld /usr/bin/arm-ostl-linux-gnueabi-ld
+	update-alternatives --remove  ld.bfd /usr/bin/arm-ostl-linux-gnueabi-ld.bfd
+	update-alternatives --remove  ld.gold /usr/bin/arm-ostl-linux-gnueabi-ld.gold
+	update-alternatives --remove  dwp /usr/bin/arm-ostl-linux-gnueabi-dwp
+	update-alternatives --remove  nm /usr/bin/arm-ostl-linux-gnueabi-nm
+	update-alternatives --remove  objcopy /usr/bin/arm-ostl-linux-gnueabi-objcopy
+	update-alternatives --remove  objdump /usr/bin/arm-ostl-linux-gnueabi-objdump
+	update-alternatives --remove  ranlib /usr/bin/arm-ostl-linux-gnueabi-ranlib
+	update-alternatives --remove  readelf /usr/bin/arm-ostl-linux-gnueabi-readelf
+	update-alternatives --remove  size /usr/bin/arm-ostl-linux-gnueabi-size
+	update-alternatives --remove  strings /usr/bin/arm-ostl-linux-gnueabi-strings
+	update-alternatives --remove  strip /usr/bin/arm-ostl-linux-gnueabi-strip

@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/include
+/usr/include/tslib.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/tslib.pc
+/usr/lib/libts.so

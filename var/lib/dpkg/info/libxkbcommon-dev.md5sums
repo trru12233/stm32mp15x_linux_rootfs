@@ -1,0 +1,8 @@
+b07292505eb1a4861a72d2cfb4da7cf8  usr/include/xkbcommon/xkbcommon-compat.h
+439f85cfa6bf113a8b539b7bcb38961f  usr/include/xkbcommon/xkbcommon-compose.h
+fc6b42e2bd7dc83bec2ca3f5d34075c6  usr/include/xkbcommon/xkbcommon-keysyms.h
+10fedda2f75a254daf645e9ad4d6fc53  usr/include/xkbcommon/xkbcommon-names.h
+bcc447cfba2668cba6024fa5265ab2c6  usr/include/xkbcommon/xkbcommon-x11.h
+94800a41f5c517d31eb2155d639d9f2a  usr/include/xkbcommon/xkbcommon.h
+6a445dac95149dea955321bcf075e580  usr/lib/pkgconfig/xkbcommon-x11.pc
+0add36d9f52097e63123fa0a0b82c017  usr/lib/pkgconfig/xkbcommon.pc

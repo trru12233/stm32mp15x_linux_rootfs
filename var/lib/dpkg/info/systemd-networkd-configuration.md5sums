@@ -1,0 +1,3 @@
+b92536f2e0e6f5ce73ed5bd24d2ed0cd  lib/systemd/network/50-wired-nfs.network
+4c85ce3694bfa0169e1511b9b40ab68d  lib/systemd/network/51-wireless.network.sample
+d1e82290eb0237651b1f797aa99db468  lib/systemd/network/52-static.network.static

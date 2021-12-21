@@ -1,0 +1,15 @@
+161fc164b54b887b399d25c8f3cfef8a  usr/lib/libts.so.0.10.3
+de794d391d441b1f8a3377954f536cfb  usr/lib/ts/debounce.so
+5fbe902c1a743a4c8edb43c9fac3a364  usr/lib/ts/dejitter.so
+2c584b34de3c58510e34eb976557f846  usr/lib/ts/evthres.so
+194ab124913a1e4f095ae1e6c95dea92  usr/lib/ts/iir.so
+1d232d4074be9d2fec9e6ed6bceafed6  usr/lib/ts/input.so
+6f6b79579e650afdd2ee65fac5ed4b02  usr/lib/ts/invert.so
+d552613b32144ffb2c24fce3cf783242  usr/lib/ts/linear.so
+defb24d3712267993655768d042db635  usr/lib/ts/lowpass.so
+b8d5baf49c61f1ac4712fc25d90a879c  usr/lib/ts/median.so
+1826da6bf987653baba7246ed1d0eb4b  usr/lib/ts/pthres.so
+d85b71cefa4cfc361026cff4b3919e45  usr/lib/ts/skip.so
+0a199a3cb6ae1793371a5f9cad513e71  usr/lib/ts/touchkit.so
+7865baf344614c9f7edfd594cee37726  usr/lib/ts/variance.so
+6fdd1743f5972044f9cde18fd97c6ab6  usr/lib/ts/waveshare.so

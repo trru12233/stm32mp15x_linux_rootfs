@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/ppp
+/etc/ppp/peers
+/etc/ppp/peers/host
+/usr
+/usr/sbin
+/usr/sbin/ppp-dialin

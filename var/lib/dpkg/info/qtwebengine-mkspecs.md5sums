@@ -1,0 +1,7 @@
+2f5f45f516d3fffae0bfd25dcf6d66ba  usr/lib/mkspecs/modules/qt_lib_webengine.pri
+e749685158759ddb76415f89953c245a  usr/lib/mkspecs/modules/qt_lib_webengine_private.pri
+3883a444acb2ae67a5c60c7a5e28b7a2  usr/lib/mkspecs/modules/qt_lib_webenginecore.pri
+5d3a508013bdc00c13f80c2f88786937  usr/lib/mkspecs/modules/qt_lib_webenginecore_private.pri
+2ca7ae040ae4e9dfdee2a0b8b5bb8e1c  usr/lib/mkspecs/modules/qt_lib_webenginecoreheaders_private.pri
+10ce28bcb403c3d86161ab25884c9593  usr/lib/mkspecs/modules/qt_lib_webenginewidgets.pri
+1f3b0288dfa67c60819b0646742e90a0  usr/lib/mkspecs/modules/qt_lib_webenginewidgets_private.pri

@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libweston-8
+/usr/lib/libweston-8/xwayland.so

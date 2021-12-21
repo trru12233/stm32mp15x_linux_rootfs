@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/profile.d
+/etc/profile.d/qt-eglfs.sh
+/usr
+/usr/share
+/usr/share/qt5
+/usr/share/qt5/cursor.json

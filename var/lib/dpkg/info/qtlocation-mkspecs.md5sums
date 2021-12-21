@@ -1,0 +1,6 @@
+9f34d9e33e7b99b26a9d7a87ebfbc966  usr/lib/mkspecs/modules/qt_lib_location.pri
+2bbb972f9f382a02ea158f175cab3730  usr/lib/mkspecs/modules/qt_lib_location_private.pri
+6f2c563f822089ad993715dce7123586  usr/lib/mkspecs/modules/qt_lib_positioning.pri
+6f9ff5bad7a8ca13b5185ff6fa5afcbf  usr/lib/mkspecs/modules/qt_lib_positioning_private.pri
+3337e3d020041698961a9ca4474e4327  usr/lib/mkspecs/modules/qt_lib_positioningquick.pri
+2b52a7101ccf496d7477261da9e21cdb  usr/lib/mkspecs/modules/qt_lib_positioningquick_private.pri

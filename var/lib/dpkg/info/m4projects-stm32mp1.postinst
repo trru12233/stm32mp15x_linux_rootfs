@@ -1,0 +1,46 @@
+#!/bin/sh
+set -e
+if type systemctl >/dev/null 2>/dev/null; then
+	OPTS=""
+
+	if [ -n "$D" ]; then
+		OPTS="--root=$D"
+	fi
+
+	if [ "disable" = "enable" ]; then
+		for service in st-m4firmware-load.service; do
+			systemctl ${OPTS} enable "$service"
+		done
+	fi
+
+	if [ -z "$D" ]; then
+		systemctl daemon-reload
+		systemctl preset st-m4firmware-load.service
+
+		if [ "disable" = "enable" ]; then
+			systemctl --no-block restart st-m4firmware-load.service
+		fi
+	fi
+fi
+if type systemctl >/dev/null 2>/dev/null; then
+	OPTS=""
+
+	if [ -n "$D" ]; then
+		OPTS="--root=$D"
+	fi
+
+	if [ "disable" = "enable" ]; then
+		for service in st-m4firmware-load.service; do
+			systemctl ${OPTS} enable "$service"
+		done
+	fi
+
+	if [ -z "$D" ]; then
+		systemctl daemon-reload
+		systemctl preset st-m4firmware-load.service
+
+		if [ "disable" = "enable" ]; then
+			systemctl --no-block restart st-m4firmware-load.service
+		fi
+	fi
+fi

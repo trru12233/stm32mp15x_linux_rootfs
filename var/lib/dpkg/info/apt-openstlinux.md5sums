@@ -1,0 +1,4 @@
+75d8dad04be3c349c42fc439b5996457  etc/apt/apt.conf.d/01-st-disclaimer
+0e4e36d60fadf2215240ffbc2e69833c  etc/apt/disclaimer
+749f4a6080a6580cbadedc742eb1701c  etc/apt/sources.list.d/packages.openstlinux.st.com.list
+f6d8e1890f535712634fa8e27724d55a  etc/apt/trusted.gpg.d/packages.openstlinux.st.com.gpg

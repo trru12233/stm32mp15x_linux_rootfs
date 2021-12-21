@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/iio
+/lib/modules/5.4.56/kernel/drivers/iio/common
+/lib/modules/5.4.56/kernel/drivers/iio/common/cros_ec_sensors
+/lib/modules/5.4.56/kernel/drivers/iio/common/cros_ec_sensors/cros_ec_sensors.ko

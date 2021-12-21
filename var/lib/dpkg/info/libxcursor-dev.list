@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/X11
+/usr/include/X11/Xcursor
+/usr/include/X11/Xcursor/Xcursor.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xcursor.pc
+/usr/lib/libXcursor.so

@@ -1,0 +1,15 @@
+0864401cf3788e138d3b40e90a8aaf14  usr/include/libexif/_stdint.h
+d786f51061a1ec0a7632073ee562fdca  usr/include/libexif/exif-byte-order.h
+921493d03eb6ff2be35dfee3fa35f68f  usr/include/libexif/exif-content.h
+58501d76b48cc9ed73c2a745fe11afe6  usr/include/libexif/exif-data-type.h
+e670090e510e93c24149aad5206ee019  usr/include/libexif/exif-data.h
+4e3de54f5455314cd86b02410e45c757  usr/include/libexif/exif-entry.h
+d0093f1efe044bfe96430ffa5e1c1fb8  usr/include/libexif/exif-format.h
+a24bf4a05b71823f8cd32f0adc54bd48  usr/include/libexif/exif-ifd.h
+dd8d8ef265e8f04a507846ee254a174e  usr/include/libexif/exif-loader.h
+99072fa9cec7bbc0badcb77fb2617890  usr/include/libexif/exif-log.h
+5f053f967ea319cabe315a2af42b2b23  usr/include/libexif/exif-mem.h
+c0c7a752bd6af34b7e46fe710d0a915a  usr/include/libexif/exif-mnote-data.h
+ffb8ef262868fbe107b8fc30c95be2fc  usr/include/libexif/exif-tag.h
+5079741f3bf0123d473258402d22410f  usr/include/libexif/exif-utils.h
+c5d70acac603f4597af8e8867132963d  usr/lib/pkgconfig/libexif.pc

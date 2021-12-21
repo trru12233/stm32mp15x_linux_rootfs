@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/include
+/usr/include/fontconfig
+/usr/include/fontconfig/fcfreetype.h
+/usr/include/fontconfig/fcprivate.h
+/usr/include/fontconfig/fontconfig.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/fontconfig.pc
+/usr/share
+/usr/share/gettext
+/usr/share/gettext/its
+/usr/share/gettext/its/fontconfig.its
+/usr/share/gettext/its/fontconfig.loc
+/usr/lib/libfontconfig.so

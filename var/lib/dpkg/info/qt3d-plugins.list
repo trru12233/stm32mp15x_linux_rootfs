@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/plugins
+/usr/lib/plugins/geometryloaders
+/usr/lib/plugins/geometryloaders/libdefaultgeometryloader.so
+/usr/lib/plugins/geometryloaders/libgltfgeometryloader.so
+/usr/lib/plugins/renderplugins
+/usr/lib/plugins/renderplugins/libscene2d.so
+/usr/lib/plugins/sceneparsers
+/usr/lib/plugins/sceneparsers/libassimpsceneimport.so
+/usr/lib/plugins/sceneparsers/libgltfsceneexport.so
+/usr/lib/plugins/sceneparsers/libgltfsceneimport.so

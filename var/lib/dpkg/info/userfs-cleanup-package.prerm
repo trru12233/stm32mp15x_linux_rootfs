@@ -1,0 +1,17 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+if type systemctl >/dev/null 2>/dev/null; then
+	if [ -z "$D" ]; then
+		systemctl stop userfs-cleanup-package.service
+
+		systemctl disable userfs-cleanup-package.service
+	fi
+fi
+if type systemctl >/dev/null 2>/dev/null; then
+	if [ -z "$D" ]; then
+		systemctl stop userfs-cleanup-package.service
+
+		systemctl disable userfs-cleanup-package.service
+	fi
+fi

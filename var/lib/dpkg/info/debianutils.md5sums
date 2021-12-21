@@ -1,0 +1,7 @@
+74db0bd40d059b32fbcdcb2d95a9e314  bin/tempfile.debianutils
+53f9bb0794441e6785f0abc0f05fdc8b  usr/bin/ischroot
+c9cb1648f0c7c131b2739669fd15a00a  usr/bin/savelog.debianutils
+e942f154ef9d9974366551d2d231d936  usr/bin/which.debianutils
+830ac10d2d41003c5cf4fc6a8507c533  usr/sbin/add-shell.debianutils
+a4c36b16155a37c814386f5141570c95  usr/sbin/installkernel.debianutils
+7f7453cc860073b8f06c506a213f4fdb  usr/sbin/remove-shell.debianutils

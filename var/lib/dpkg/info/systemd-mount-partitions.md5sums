@@ -1,0 +1,3 @@
+960acb5e65a8d234ee2a360b9ad17e1d  lib/systemd/system/mount-partitions.service
+304587dfc4fd77ecb25248477e3378ad  lib/systemd/system-preset/98-systemd-mount-partitions.preset
+f167a014533711b19a303f98cc998db4  sbin/mount-partitions.sh

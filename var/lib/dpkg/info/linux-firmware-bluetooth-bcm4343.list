@@ -1,0 +1,5 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/brcm
+/lib/firmware/brcm/BCM43430A1.hcd

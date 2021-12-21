@@ -1,0 +1,6 @@
+32dff04a42a4ad5364967834c7c475a5  usr/bin/gpiodetect
+486dd0e43dd6529f29745daf85dc48eb  usr/bin/gpiofind
+12c018a9eede85cbb8f74fa0e63ad1c5  usr/bin/gpioget
+3011c3b8b285b65e7a35e7a1779adf4c  usr/bin/gpioinfo
+bce43d7ea3906251b18aafff95a39f64  usr/bin/gpiomon
+6ddf41349f37f8b16930fdc94061276d  usr/bin/gpioset

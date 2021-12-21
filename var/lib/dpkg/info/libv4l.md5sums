@@ -1,0 +1,11 @@
+dfc5862815d48fbe6b3d5b014cf75584  usr/lib/libdvbv5.so.0.0.0
+c4a91fcb39a2a5d127f4a29e360cddb1  usr/lib/libv4l/ov511-decomp
+6b2c0fa63e6d402eca73dbec9816ec4a  usr/lib/libv4l/ov518-decomp
+b130aea015260fb2a456a4578b99d44b  usr/lib/libv4l/plugins/libv4l-mplane.so
+9b11ddc78c1fd6ed4e35f6501bf371dc  usr/lib/libv4l/v4l1compat.so
+a9859984dc25e76683f239ce9c7c352f  usr/lib/libv4l/v4l2convert.so
+5bec033d042fd4910e4320eb16b10de9  usr/lib/libv4l1.so.0.0.0
+75d4257d9bdc1edabe6fd3be02aba000  usr/lib/libv4l2.so.0.0.0
+f87ad5bd2206c65c5651f728bc3c6480  usr/lib/libv4l2rds.so.0.0.0
+b9a71b36b2e93c693d0921f90981d5b1  usr/lib/libv4l2subdev.so.0.0.0
+088a431026604a2ed43a8b85b9735756  usr/lib/libv4lconvert.so.0.0.0

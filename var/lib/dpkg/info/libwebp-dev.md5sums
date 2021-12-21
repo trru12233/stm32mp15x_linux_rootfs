@@ -1,0 +1,9 @@
+f20ec0f5d06f02e14855031d0bc776cd  usr/include/webp/decode.h
+5fc0bf84c0a93a2ebbcc432f76b39dcf  usr/include/webp/demux.h
+3d27fdd493369ad0fbfb72be6c51073a  usr/include/webp/encode.h
+dedafed77ebeb347f8a1bf86d8fb56e1  usr/include/webp/mux.h
+f6ee710c04662910d3455580ace07758  usr/include/webp/mux_types.h
+21e2e3ccdc6fd8cddc2c1c0eca8a9ebc  usr/include/webp/types.h
+75a011ec635a0773af9a9fb9d878a4b4  usr/lib/pkgconfig/libwebp.pc
+23a7b6b330b063288d8fba8a3977a784  usr/lib/pkgconfig/libwebpdemux.pc
+e885b53f50f05e23d0b0b6953678c75a  usr/lib/pkgconfig/libwebpmux.pc

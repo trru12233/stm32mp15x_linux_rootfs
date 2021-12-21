@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtQuick
+/usr/lib/qml/QtQuick/XmlListModel
+/usr/lib/qml/QtQuick/XmlListModel/libqmlxmllistmodelplugin.so
+/usr/lib/qml/QtQuick/XmlListModel/plugins.qmltypes
+/usr/lib/qml/QtQuick/XmlListModel/qmldir

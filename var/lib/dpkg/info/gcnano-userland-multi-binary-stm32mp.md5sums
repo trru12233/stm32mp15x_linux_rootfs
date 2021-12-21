@@ -1,0 +1,9 @@
+5ecd167905319e6086bb0b21dc73f9e5  vendor/lib/libEGL.6.4.multi.release.so
+16f47412da5cdc1455362901d02be715  vendor/lib/libGAL.6.4.multi.release.so
+84dccc9803166aa0f79500e0b8ab4623  vendor/lib/libGLESv1_CM.6.4.multi.release.so
+2de070bb01e24c51481679bbcd830a3b  vendor/lib/libGLESv2.6.4.multi.release.so
+2844c1a3eb4bb4b5293400703437dd6e  vendor/lib/libGLSLC.6.4.multi.release.so
+177ce6ba377a37689a9de907cbc6a7d3  vendor/lib/libOpenVG.6.4.multi.release.so
+423f72cb9820b56e26796cf074e8a6af  vendor/lib/libVSC.6.4.multi.release.so
+a50fb8d9ad3f93160186fdb3f514c099  vendor/lib/libgbm.6.4.multi.release.so
+2b2f2ab11be55a3abe4039f4ae6d7348  vendor/lib/libgbm_viv.6.4.multi.release.so

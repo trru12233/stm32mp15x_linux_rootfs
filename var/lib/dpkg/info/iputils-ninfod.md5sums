@@ -1,0 +1,3 @@
+dee5d65cc7605bd9774d5b720d6e13fd  lib/systemd/system/ninfod.service
+cdf8a3f7f98321d95c9d5016a3d13569  lib/systemd/system-preset/98-iputils-ninfod.preset
+bdbce8a8143af0c91d5ff25bab2fda8e  sbin/ninfod

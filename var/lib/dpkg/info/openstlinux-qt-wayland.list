@@ -1,0 +1,4 @@
+/.
+/etc
+/etc/profile.d
+/etc/profile.d/qt-wayland.sh

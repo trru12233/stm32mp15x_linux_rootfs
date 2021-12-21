@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/lib
+/usr/lib/mkspecs
+/usr/lib/mkspecs/modules
+/usr/lib/mkspecs/modules/qt_lib_xmlpatterns.pri
+/usr/lib/mkspecs/modules/qt_lib_xmlpatterns_private.pri

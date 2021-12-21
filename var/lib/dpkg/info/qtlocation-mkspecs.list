@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/mkspecs
+/usr/lib/mkspecs/modules
+/usr/lib/mkspecs/modules/qt_lib_location.pri
+/usr/lib/mkspecs/modules/qt_lib_location_private.pri
+/usr/lib/mkspecs/modules/qt_lib_positioning.pri
+/usr/lib/mkspecs/modules/qt_lib_positioning_private.pri
+/usr/lib/mkspecs/modules/qt_lib_positioningquick.pri
+/usr/lib/mkspecs/modules/qt_lib_positioningquick_private.pri

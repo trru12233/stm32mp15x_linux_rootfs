@@ -1,0 +1,2 @@
+8c381b0ef758f932218f0c90e125557c  etc/udev/rules.d/85-m4-dump.rules
+90279f63b31ba966487d93b03dce9bdd  usr/sbin/stm32mp-m4fwdump.sh

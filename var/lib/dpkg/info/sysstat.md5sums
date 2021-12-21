@@ -1,0 +1,14 @@
+031298657fd33dfd41071fb94e6e652a  etc/sysconfig/sysstat
+1699371117f9393aebb9523c4cbadca8  etc/sysconfig/sysstat.ioconf
+b71fc0cde136955f695c72138575a191  etc/tmpfiles.d/sysstat.conf
+36869dec1bd7678cdba3410ca009f2ff  lib/systemd/system/sysstat.service
+567ad936b44fcbb757a3db59733d56a4  usr/bin/cifsiostat
+cb74f70a543ab30706e85abf520f0b6e  usr/bin/iostat
+ec6007458cccd6848a73c2fcaf964f18  usr/bin/mpstat
+4a8dda439ff61d72373bde696166618a  usr/bin/pidstat
+95d22877e457771a059b3aa9d13a3c62  usr/bin/sadf
+cdfb702ad5395b46a33defb6a239eb08  usr/bin/sar
+ce7eefd889db174a4adda3f34faed287  usr/bin/tapestat
+39b86c823e28115c443f6b8ed7982947  usr/libexec/sa/sa1
+81cff03de4f47de526eb7ddb49ef955f  usr/libexec/sa/sa2
+e23a43c9f708833ce41ace725e850b1a  usr/libexec/sa/sadc

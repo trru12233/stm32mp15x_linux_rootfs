@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/ninfod.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-iputils-ninfod.preset
+/sbin
+/sbin/ninfod

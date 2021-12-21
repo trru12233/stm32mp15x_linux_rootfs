@@ -1,0 +1,9 @@
+851bd8c5d2d6757f7d2333c6c20bc509  etc/modprobe.d/usbip.conf
+5650fe1f89966fab70e6c96da0f729a5  etc/udev/rules.d/99-usb-usbip.rules
+64beac356b9466c15726d5a8df9da243  lib/systemd/system/usbip.service
+0781bccf9cf6c8ca46a4215a1a1de750  lib/systemd/system-preset/98-usbip.preset
+0eee4c865e15682866f362de5f89826e  usr/lib/libusbip.so.0.0.1
+94d479927554441067303dc2ac0fae65  usr/sbin/stm32mp-usbip-bind-unbind.sh
+0917eceb7d211bba13d9be8de5107c7e  usr/sbin/usbip
+a0a313770669eb8ce41b8e6fc6b49ebc  usr/sbin/usbipd
+81dd7017f9a8b3a22352462a803cdab3  usr/share/hwdata/usb.ids

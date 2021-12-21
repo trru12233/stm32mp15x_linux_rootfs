@@ -1,0 +1,17 @@
+/.
+/lib
+/lib/libgcc_s.so
+/usr
+/usr/lib
+/usr/lib/arm-ostl-linux-gnueabi
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/crtbegin.o
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/crtbeginS.o
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/crtbeginT.o
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/crtend.o
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/crtendS.o
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/crtfastmath.o
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/libgcc.a
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/libgcc_eh.a
+/usr/lib/arm-ostl-linux-gnueabi/9.3.0/libgcov.a
+/usr/lib/arm-ostl-linux-gnueabihf

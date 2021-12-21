@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/iio
+/lib/modules/5.4.56/kernel/drivers/iio/light
+/lib/modules/5.4.56/kernel/drivers/iio/light/cm36651.ko

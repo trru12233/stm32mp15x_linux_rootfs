@@ -1,0 +1,2 @@
+80ef09fa5fc6ecfa1c67197fd2f33666  usr/lib/xorg/modules/input/evdev_drv.so
+16c235dd8c8fa3b232c032d22cd69ec8  usr/share/X11/xorg.conf.d/10-evdev.conf

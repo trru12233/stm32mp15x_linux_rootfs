@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/usb
+/lib/modules/5.4.56/kernel/drivers/usb/gadget
+/lib/modules/5.4.56/kernel/drivers/usb/gadget/udc
+/lib/modules/5.4.56/kernel/drivers/usb/gadget/udc/aspeed-vhub
+/lib/modules/5.4.56/kernel/drivers/usb/gadget/udc/aspeed-vhub/aspeed-vhub.ko

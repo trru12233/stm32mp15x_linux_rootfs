@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/qml
+/usr/bin/qmlcachegen
+/usr/bin/qmleasing
+/usr/bin/qmlimportscanner
+/usr/bin/qmllint
+/usr/bin/qmlmin
+/usr/bin/qmlplugindump
+/usr/bin/qmlpreview
+/usr/bin/qmlprofiler
+/usr/bin/qmlscene
+/usr/bin/qmltestrunner

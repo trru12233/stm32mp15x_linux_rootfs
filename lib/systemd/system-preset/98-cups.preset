@@ -1,0 +1,5 @@
+enable org.cups.cupsd.socket
+enable org.cups.cupsd.path
+enable org.cups.cupsd.service
+enable org.cups.cups-lpd.socket
+enable org.cups.cups-lpd@.service

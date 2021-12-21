@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/include
+/usr/include/theora
+/usr/include/theora/codec.h
+/usr/include/theora/theora.h
+/usr/include/theora/theoradec.h
+/usr/include/theora/theoraenc.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/theora.pc
+/usr/lib/pkgconfig/theoradec.pc
+/usr/lib/pkgconfig/theoraenc.pc
+/usr/lib/libtheora.so
+/usr/lib/libtheoradec.so
+/usr/lib/libtheoraenc.so

@@ -1,0 +1,3 @@
+80ca87f55933871762356f0e805d31eb  lib/security/pam_unix.so
+cbb17bfa7655fd29f088e8c45e03918d  usr/sbin/unix_chkpwd
+7b85df97e613acd766155182a9027e4e  usr/sbin/unix_update

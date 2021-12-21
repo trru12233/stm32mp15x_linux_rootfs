@@ -1,0 +1,8 @@
+4902dfb28f781a4dcd40506a81e8d0e9  usr/include/libdaemon/daemon.h
+fd87e28b4a37531944e06b2c5470978a  usr/include/libdaemon/dexec.h
+43da1d5ba5ad7145ad9e2f2fa3e0c676  usr/include/libdaemon/dfork.h
+898c6e952bb1026c673dda0e665c8953  usr/include/libdaemon/dlog.h
+b8c0a3ac9c9300acae59c4b2df07594b  usr/include/libdaemon/dnonblock.h
+ac20df98d4af30001cf135c7577a3088  usr/include/libdaemon/dpid.h
+6e2abbe47c4864031a28d579a6ee3884  usr/include/libdaemon/dsignal.h
+c31f81d630a924c2e9853678dfccd8f5  usr/lib/pkgconfig/libdaemon.pc

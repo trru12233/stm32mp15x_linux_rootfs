@@ -1,0 +1,5 @@
+f5d27eb513828dcb2d941bc7767c6ac9  etc/ntp.conf
+fcee1a5e5f69d88e7c9afdfdf7feb789  lib/systemd/ntp-units.d/60-ntpd.list
+45037fd56b353cf1a18b61e15a7e7111  lib/systemd/system/ntpd.service
+5b6bbb453dc8071c55e5f8be48963de2  lib/systemd/system-preset/98-ntp.preset
+66254d9a492f6adda3a5d3937cb7e460  usr/sbin/ntpd.ntp

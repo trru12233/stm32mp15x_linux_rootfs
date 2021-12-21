@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/drivers
+/lib/modules/5.4.56/kernel/drivers/media
+/lib/modules/5.4.56/kernel/drivers/media/i2c
+/lib/modules/5.4.56/kernel/drivers/media/i2c/st-mipid02.ko

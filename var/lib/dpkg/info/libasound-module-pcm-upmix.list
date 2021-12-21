@@ -1,0 +1,13 @@
+/.
+/etc
+/etc/alsa
+/etc/alsa/conf.d
+/usr
+/usr/lib
+/usr/lib/alsa-lib
+/usr/lib/alsa-lib/libasound_module_pcm_upmix.so
+/usr/share
+/usr/share/alsa
+/usr/share/alsa/alsa.conf.d
+/usr/share/alsa/alsa.conf.d/60-upmix.conf
+/etc/alsa/conf.d/60-upmix.conf

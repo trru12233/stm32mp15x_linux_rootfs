@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/sensors.d
+/etc/sensors3.conf
+/usr
+/usr/lib
+/usr/lib/libsensors.so.5.0.0
+/usr/lib/libsensors.so.5

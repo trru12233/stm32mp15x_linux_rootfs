@@ -1,0 +1,10 @@
+a715804d6e27ed7c343ace3096285927  usr/bin/pcre-config
+8603710935aa1c0b9e5bc290744971fe  usr/include/pcre.h
+524fc49143dd83fa94d12e0b180d6be6  usr/include/pcre_scanner.h
+d78187510a0ba7cfed979e2acb0e5bd0  usr/include/pcre_stringpiece.h
+7c2dded866f6678ea8d139a8328ad585  usr/include/pcrecpp.h
+f907364a60cda13f1916726a65c9bd6c  usr/include/pcrecpparg.h
+4b609eb3fafbe5c5e9482969655b251a  usr/include/pcreposix.h
+df54f7024dcdee4e06d9b7bd7bbe1144  usr/lib/pkgconfig/libpcre.pc
+2268c0ea8b7faf15b3e03e2600aecefd  usr/lib/pkgconfig/libpcrecpp.pc
+1036bea2b81f5b290aeba8fa74233d9b  usr/lib/pkgconfig/libpcreposix.pc

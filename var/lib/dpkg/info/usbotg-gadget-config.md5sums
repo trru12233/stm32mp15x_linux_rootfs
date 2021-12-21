@@ -1,0 +1,4 @@
+b6492556f76c662ae2fb1e4d2f2eac08  lib/systemd/network/53-usb-otg.network
+3b4d3cde281b16eb02edc9e69748c7ec  lib/systemd/system/usbotg-config.service
+29d1ff3195989759157d86369800152e  lib/systemd/system-preset/98-usbotg-gadget-config.preset
+667804042dec849272f655f0e711b3fe  sbin/stm32_usbotg_eth_config.sh

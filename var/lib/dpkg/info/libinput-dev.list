@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/include
+/usr/include/libinput.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libinput.pc
+/usr/lib/libinput.so

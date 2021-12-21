@@ -1,0 +1,5 @@
+/.
+/etc
+/etc/fw_env.config.mmc
+/etc/fw_env.config.nand
+/etc/fw_env.config.nor

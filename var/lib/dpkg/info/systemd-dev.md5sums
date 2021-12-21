@@ -1,0 +1,17 @@
+8047a75ca1e6d33b561c92ecdc6fca27  usr/include/libudev.h
+819f26a5a06a3d3c1d45832723330869  usr/include/systemd/_sd-common.h
+0100b7e7fbf46d11ae0f289bde124c98  usr/include/systemd/sd-bus-protocol.h
+03afe4c857de9820f4eed2cd5f110e36  usr/include/systemd/sd-bus-vtable.h
+2bd36e2a9888f7081f389db00108499a  usr/include/systemd/sd-bus.h
+3ecd66fc5eee2bf897ed86f3e4ceaefe  usr/include/systemd/sd-daemon.h
+3eaf95045762af7fb0c9e8c398b1a305  usr/include/systemd/sd-device.h
+b71542e09e8823cf756daad30ae6c429  usr/include/systemd/sd-event.h
+8a0df96340ae3381a1bb2a02456469df  usr/include/systemd/sd-hwdb.h
+f2d4425f45df788c0b7ff2abdb2c65b8  usr/include/systemd/sd-id128.h
+3c4ea63419b4fb68c3a18cc513f50c14  usr/include/systemd/sd-journal.h
+a353138c323bb47700eaea694f9b5993  usr/include/systemd/sd-login.h
+4632c39979b67a6c966bc4d2296f80af  usr/include/systemd/sd-messages.h
+314249439d91d1eaeb1dc261335dcab5  usr/lib/pkgconfig/libsystemd.pc
+e837c8fc283a04e47f9aa781901e2c34  usr/lib/pkgconfig/libudev.pc
+c5cbf2b74d446993f19764bee199fad6  usr/share/pkgconfig/systemd.pc
+ab28675f7089038f3b92c90da0668966  usr/share/pkgconfig/udev.pc

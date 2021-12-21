@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/include
+/usr/include/pci
+/usr/include/pci/config-32.h
+/usr/include/pci/config.h
+/usr/include/pci/header.h
+/usr/include/pci/pci.h
+/usr/include/pci/types.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libpci.pc
+/usr/lib/libpci.so

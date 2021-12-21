@@ -1,0 +1,5 @@
+55fc78ae1df76be7a2e9d4f06059cb27  usr/lib/plugins/canbus/libqtpassthrucanbus.so
+307fa8e93eb6b37380c23ba0b1900c17  usr/lib/plugins/canbus/libqtpeakcanbus.so
+0a9c62d43fab0f3154231736fbbc4ce6  usr/lib/plugins/canbus/libqtsocketcanbus.so
+2527a75fc5a9358e6e4cddb3be43ce1b  usr/lib/plugins/canbus/libqttinycanbus.so
+69d985873d3bdc46f7d0ce65d9ee340f  usr/lib/plugins/canbus/libqtvirtualcanbus.so

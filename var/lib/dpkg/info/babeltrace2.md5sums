@@ -1,0 +1,6 @@
+982f7620b17c71c69e5969470dd10262  usr/bin/babeltrace2
+a03f569cddd9283fd198cbd07a66bbe0  usr/lib/babeltrace2/plugins/babeltrace-plugin-ctf.so
+5e9f0e639a40191ce34c7aa284e49848  usr/lib/babeltrace2/plugins/babeltrace-plugin-text.so
+609d6584009058d120e75a2da36274e9  usr/lib/babeltrace2/plugins/babeltrace-plugin-utils.so
+d1fb2121450b3ad6ca470d55f706facd  usr/lib/libbabeltrace2-ctf-writer.so.0.0.0
+e0b0737c9407276e9570582ce9f86ccb  usr/lib/libbabeltrace2.so.0.0.0

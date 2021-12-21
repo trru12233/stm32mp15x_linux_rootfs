@@ -1,0 +1,2 @@
+782409d91e8a2849ff432193d4f07484  usr/lib/alsa-lib/libasound_module_rate_speexrate.so
+b25b4ba0ef528869fdf09f09946bd3ba  usr/share/alsa/alsa.conf.d/10-speexrate.conf

@@ -1,0 +1,7 @@
+372b2a59cd74bbe66c1464acfc3cc546  usr/lib/libweston-8/drm-backend.so
+23586e93e7be6a9f2936373471796e93  usr/lib/libweston-8/fbdev-backend.so
+910186b6e5cd99605778ecbc077ef711  usr/lib/libweston-8/gl-renderer.so
+6f2d8afcf9e14cd6c981735b672dd193  usr/lib/libweston-8/wayland-backend.so
+e0fac237469d2b4b6e98418d92403d67  usr/lib/libweston-8/x11-backend.so
+deb203958e518b0b997c39cc593ea16c  usr/lib/libweston-8.so.0.0.0
+7934e35700cc382d220af83aa512f6f7  usr/lib/libweston-desktop-8.so.0.0.0

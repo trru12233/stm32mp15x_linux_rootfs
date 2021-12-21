@@ -1,0 +1,6 @@
+eb8c2d1c71d7da68cf391d4aad81c22c  usr/lib/qml/QtBluetooth/libdeclarative_bluetooth.so
+2151ba968cc5728b2ac4d8c49dbd8656  usr/lib/qml/QtBluetooth/plugins.qmltypes
+b7801270457c25298f8a5da0e4a34832  usr/lib/qml/QtBluetooth/qmldir
+0080d494ce40d258fbdab8d91ca16429  usr/lib/qml/QtNfc/libdeclarative_nfc.so
+0fd00d16f0035466798027aa40f1a55e  usr/lib/qml/QtNfc/plugins.qmltypes
+5ce610992f27100ad1393150b6f5c17d  usr/lib/qml/QtNfc/qmldir

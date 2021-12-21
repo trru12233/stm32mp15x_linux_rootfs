@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/udev
+/etc/udev/rules.d
+/etc/udev/rules.d/85-m4-dump.rules
+/usr
+/usr/sbin
+/usr/sbin/stm32mp-m4fwdump.sh

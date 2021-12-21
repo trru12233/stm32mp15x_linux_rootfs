@@ -1,0 +1,13 @@
+5c00b190831d9fcc09c75c143be8227f  usr/lib/plugins/platforms/libqwayland-egl.so
+25f6546dc827fbfd503649ab31de1b64  usr/lib/plugins/platforms/libqwayland-generic.so
+a620958c2b756604dc2763be81f6d9c7  usr/lib/plugins/wayland-decoration-client/libbradient.so
+3c4c05d75748f01704962f243258b716  usr/lib/plugins/wayland-graphics-integration-client/libqt-plugin-wayland-egl.so
+b058294f40eb323744927820532bafbb  usr/lib/plugins/wayland-graphics-integration-client/libshm-emulation-server.so
+858b52f33e32f619bba67b0ef94cf6cd  usr/lib/plugins/wayland-graphics-integration-server/libqt-plugin-wayland-egl.so
+e3f29a55759391c5f4cc66837a2067cf  usr/lib/plugins/wayland-graphics-integration-server/libshm-emulation-server.so
+16f1571afb718517f195e874833571e7  usr/lib/plugins/wayland-graphics-integration-server/libwayland-eglstream-controller.so
+23640972a00d6182b68ef78ba5ab7c13  usr/lib/plugins/wayland-shell-integration/libivi-shell.so
+2015d92d010d3dbdcb556533c670a8a5  usr/lib/plugins/wayland-shell-integration/libwl-shell.so
+469cf006b0833f99fdb84b25399d8b70  usr/lib/plugins/wayland-shell-integration/libxdg-shell-v5.so
+f386eed52fa1a5fd4e36e0946ecaa824  usr/lib/plugins/wayland-shell-integration/libxdg-shell-v6.so
+442ea80fa2a9f98e0e0fb4ebdd7f181b  usr/lib/plugins/wayland-shell-integration/libxdg-shell.so

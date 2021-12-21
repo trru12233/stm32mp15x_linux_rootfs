@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/local
+/usr/local/demo
+/usr/local/demo/application
+/usr/local/demo/application/010-camera.yaml
+/usr/local/demo/application/camera
+/usr/local/demo/application/camera/bin
+/usr/local/demo/application/camera/bin/launch_camera_preview.sh
+/usr/local/demo/application/camera/bin/stop_camera.sh
+/usr/local/demo/application/camera/pictures
+/usr/local/demo/application/camera/pictures/ST1077_webcam_dark_blue.png
+/usr/local/demo/application/camera/shaders
+/usr/local/demo/application/camera/shaders/edge_InvertLuma.fs

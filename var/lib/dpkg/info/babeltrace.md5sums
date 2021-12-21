@@ -1,0 +1,8 @@
+761d77c8d35abe5fb9a238b0ed0d22f3  usr/bin/babeltrace
+6e01405ca114c26e6b721f9415edecab  usr/bin/babeltrace-log
+b064c31e2906d89c24a799fbae0b2d1b  usr/lib/libbabeltrace-ctf-metadata.so.1.0.0
+5066a0291baa233e3a0402f1d64886dd  usr/lib/libbabeltrace-ctf-text.so.1.0.0
+12bd0c5c5ef78b65e822d9ab2258eba1  usr/lib/libbabeltrace-ctf.so.1.0.0
+c3a22e8b954955f78d2e79958ed92f0f  usr/lib/libbabeltrace-dummy.so.1.0.0
+d1c8593d11cbf48b10abdb150dbcce21  usr/lib/libbabeltrace-lttng-live.so.1.0.0
+288c0b313f49541ce67b3695af7d1477  usr/lib/libbabeltrace.so.1.0.0

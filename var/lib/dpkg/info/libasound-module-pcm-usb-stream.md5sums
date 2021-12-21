@@ -1,0 +1,2 @@
+150982ac98bc69f5a994b1122bd2883c  usr/lib/alsa-lib/libasound_module_pcm_usb_stream.so
+72abc0602c92c440c491daeaa5ea988b  usr/share/alsa/alsa.conf.d/98-usb-stream.conf

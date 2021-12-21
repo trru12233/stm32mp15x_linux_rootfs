@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/include
+/usr/include/tiff.h
+/usr/include/tiffconf-32.h
+/usr/include/tiffconf.h
+/usr/include/tiffio.h
+/usr/include/tiffio.hxx
+/usr/include/tiffvers.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libtiff-4.pc
+/usr/lib/libtiff.so
+/usr/lib/libtiffxx.so

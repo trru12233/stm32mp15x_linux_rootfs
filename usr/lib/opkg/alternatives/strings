@@ -1,0 +1,3 @@
+/usr/bin/strings
+/usr/bin/arm-ostl-linux-gnueabi-strings 100
+/bin/busybox.nosuid 50

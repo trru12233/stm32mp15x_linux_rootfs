@@ -1,0 +1,3 @@
+fa3097390243c6d7fa84fdf818565de2  lib/systemd/system/bluetooth-brcmfmac-sleep.service
+fcca64f2e5741219110d49acadc85341  lib/systemd/system-preset/98-bluetooth-suspend.preset
+965d4c544c1c01d9a5ccdbbf345176d7  usr/bin/bluetooth_brcmfmac_driver.sh

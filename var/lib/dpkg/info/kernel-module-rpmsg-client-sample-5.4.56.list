@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.56
+/lib/modules/5.4.56/kernel
+/lib/modules/5.4.56/kernel/samples
+/lib/modules/5.4.56/kernel/samples/rpmsg
+/lib/modules/5.4.56/kernel/samples/rpmsg/rpmsg_client_sample.ko

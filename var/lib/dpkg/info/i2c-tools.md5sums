@@ -1,0 +1,7 @@
+a4ef5a35a924730aa2ed9f1e7dcee7f3  usr/lib/libi2c.so.0.1.1
+d81e7f9b2f681372cab3e300a2580e60  usr/sbin/eeprog
+2aabcee1f43864c507bfd2e481aee6c4  usr/sbin/i2cdetect.i2c-tools
+adbcf0ad21f0c2eecc79a454a4907ee9  usr/sbin/i2cdump.i2c-tools
+a81315b89f0be6ed0d4561e96dfdbab7  usr/sbin/i2cget.i2c-tools
+0b9fa84a478ff6dafb3d1ffa26dbf2ff  usr/sbin/i2cset.i2c-tools
+5119491d34d02ac81ff0dd10ac5d9cd9  usr/sbin/i2ctransfer.i2c-tools

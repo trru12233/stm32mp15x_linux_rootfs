@@ -1,0 +1,2 @@
+5e19df8a1cda16aef9ae55b63f0c8646  usr/lib/alsa-lib/libasound_module_pcm_oss.so
+49d709efcab2dc29adcee9bb2343e61b  usr/share/alsa/alsa.conf.d/50-oss.conf

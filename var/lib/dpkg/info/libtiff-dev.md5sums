@@ -1,0 +1,7 @@
+2e9f5d21ddcdfe45cb0fd8f3ace18e89  usr/include/tiff.h
+752c2abdc7b978e7d81343a107c14692  usr/include/tiffconf-32.h
+fa9c1e1488582dcbfcf7112e71d3b75e  usr/include/tiffconf.h
+2581719778fdb78ae5ce50c6116f10c5  usr/include/tiffio.h
+94f796ac8636dba8bd66a48a9719fc91  usr/include/tiffio.hxx
+d002071bc5cc9f68a27e4aa6b41f7ccd  usr/include/tiffvers.h
+6f7b018d7b58d6418242872b4798a9c1  usr/lib/pkgconfig/libtiff-4.pc

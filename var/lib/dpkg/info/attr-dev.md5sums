@@ -1,0 +1,4 @@
+f29e861a14605c524cac4e157901c888  usr/include/attr/attributes.h
+cb81ec9fe7117119f2492af7da824754  usr/include/attr/error_context.h
+e8f546cdbff5fa2397e839b00c0865d8  usr/include/attr/libattr.h
+ae2de4c41f6b47e2dcebb2508343a1b4  usr/lib/pkgconfig/libattr.pc

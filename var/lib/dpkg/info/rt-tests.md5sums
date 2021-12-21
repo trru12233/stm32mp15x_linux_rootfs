@@ -1,0 +1,13 @@
+9d03e6d9ef6ce37d12583ba81b82ea47  usr/bin/cyclictest
+1bc485ff3f33d1f13b450206929de903  usr/bin/hackbench
+f300851b14c28f90edf4e31397818e2d  usr/bin/pi_stress
+240f05ddc0612556d107a81712a68632  usr/bin/pip_stress
+1e3034c9ff0f9bda758366bdbd13616e  usr/bin/pmqtest
+cf8872591502c6c67ea22112fc945e25  usr/bin/ptsematest
+15b03cf2fec705b2db3446925659ca1d  usr/bin/rt-migrate-test
+b2bea01fa3268dc4739c51abb51412d0  usr/bin/sendme
+956c99b4af12b8ac04c446ea119e8439  usr/bin/signaltest
+24fdd413777f3788744d1fe6e4aa1c04  usr/bin/sigwaittest
+cc5374437d40b2856ebe3bc1a5f4ee2b  usr/bin/svsematest
+3854f5f982f9f8dfbac2073a293db9e3  usr/src/backfire/Makefile
+5636dfea5a2be8450324ceaf48dda070  usr/src/backfire/backfire.c

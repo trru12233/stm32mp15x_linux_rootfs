@@ -1,0 +1,9 @@
+3e25715a4f620940d6ba2ad2c994a09c  usr/lib/qml/QtQuick/VirtualKeyboard/Settings/libqtquickvirtualkeyboardsettingsplugin.so
+465652c8a51b96ff670a95a2f9cb5fe7  usr/lib/qml/QtQuick/VirtualKeyboard/Settings/plugins.qmltypes
+d710b80cefde6a86864014fb27496817  usr/lib/qml/QtQuick/VirtualKeyboard/Settings/qmldir
+4e451785d05301f6bb839cda63731d8a  usr/lib/qml/QtQuick/VirtualKeyboard/Styles/libqtquickvirtualkeyboardstylesplugin.so
+be4a5ccd3194adc787324e18b2255dec  usr/lib/qml/QtQuick/VirtualKeyboard/Styles/plugins.qmltypes
+8f37c211bbe8cf0c1d8303a6df7c89a1  usr/lib/qml/QtQuick/VirtualKeyboard/Styles/qmldir
+4befe87ad8f480c0b01c490f7c27278c  usr/lib/qml/QtQuick/VirtualKeyboard/libqtquickvirtualkeyboardplugin.so
+d29f8f112a6b918e798d9c6304086922  usr/lib/qml/QtQuick/VirtualKeyboard/plugins.qmltypes
+c07490937e30675757d56ed2e4260a77  usr/lib/qml/QtQuick/VirtualKeyboard/qmldir

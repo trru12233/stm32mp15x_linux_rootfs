@@ -1,0 +1,5 @@
+3a2184ed1c4b54ad6be9285d55a4e52d  usr/local/demo/application/060-bluetooth_audio_output.yaml
+79b57c75a93cc1be0a82f198858355bd  usr/local/demo/application/bluetooth/__init__.py
+3a8b1dd9511d160cd7082cdc10567568  usr/local/demo/application/bluetooth/bluetooth_audio.py
+c64fea4c74cb5a3741a6f4d4fbbcb82d  usr/local/demo/application/bluetooth/pictures/ST11012_bluetooth_speaker_light_green.png
+08d2cb72ea1d8456cc34a2725735b1c2  usr/local/demo/application/bluetooth/wrap_blctl.py

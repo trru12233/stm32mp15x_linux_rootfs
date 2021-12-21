@@ -1,0 +1,17 @@
+3373e5ff9d530159b3685cf309cfa750  usr/include/QtSerialPort/5.12.9/QtSerialPort/private/qserialport_p.h
+1f2ac23228c9d6ddd7da93c06f46f8c4  usr/include/QtSerialPort/5.12.9/QtSerialPort/private/qserialportinfo_p.h
+cafad51d53b0cfba6e067e9c6a71751e  usr/include/QtSerialPort/5.12.9/QtSerialPort/private/qtudev_p.h
+11c19b94b7881edec59ba1f5e966c599  usr/include/QtSerialPort/5.12.9/QtSerialPort/private/qwinoverlappedionotifier_p.h
+2cc5991b0d8a3e6a5e0c688d902c317f  usr/include/QtSerialPort/QSerialPort
+1181062945c664d4db8c31bfd6719d3b  usr/include/QtSerialPort/QSerialPortInfo
+5508cf9f4d2ff0056629118e3f4aad8a  usr/include/QtSerialPort/QtSerialPort
+d2ec30225f671dbc1d8cc8a074b70598  usr/include/QtSerialPort/QtSerialPortDepends
+a5f3a57bed0b03c4e8beaca0a7f79e51  usr/include/QtSerialPort/QtSerialPortVersion
+a8b2dc6a54285ef100cf9af4491ebc28  usr/include/QtSerialPort/qserialport.h
+24bf087877f5c7ab7afd48a697b19d2f  usr/include/QtSerialPort/qserialportglobal.h
+682d156b8bb3c2544bd7261caac6ffd5  usr/include/QtSerialPort/qserialportinfo.h
+785b8a46a1688c0eef814c475fc48990  usr/include/QtSerialPort/qtserialportversion.h
+f606219b5a984f6b0616a6fde8fb9327  usr/lib/cmake/Qt5SerialPort/Qt5SerialPortConfig.cmake
+594662a9106bbd441275fe293469fd69  usr/lib/cmake/Qt5SerialPort/Qt5SerialPortConfigVersion.cmake
+8e14369014ee0b371824edc9d82610c3  usr/lib/libQt5SerialPort.prl
+a3828dad72ea046250473f69bb92f254  usr/lib/pkgconfig/Qt5SerialPort.pc

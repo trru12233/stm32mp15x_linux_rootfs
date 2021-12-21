@@ -1,0 +1,5 @@
+67db3f693931b01bc8ebaaff91380b52  lib/systemd/system/st-m4firmware-load.service
+c8cd5c228dd83e6c2f49a1b8391ea9ac  lib/systemd/system-preset/98-m4projects-stm32mp1.preset
+88df3580007bb23fa835c3e651d29e5a  lib/systemd/system-shutdown/shutdown-stm32mp1-m4.sh
+88df3580007bb23fa835c3e651d29e5a  sbin/shutdown-stm32mp1-m4.sh
+bb62c53e2b3611ffde1902070cdb8eba  sbin/st-m4firmware-load-default.sh

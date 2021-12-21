@@ -1,0 +1,5 @@
+39a7fff7a7628ee832d9e4432d76d390  usr/local/demo/application/010-camera.yaml
+065792140b1191fd657696335a81b6d4  usr/local/demo/application/camera/bin/launch_camera_preview.sh
+a26e93d529ed916cfa32e98d9bfef67d  usr/local/demo/application/camera/bin/stop_camera.sh
+29aa0f5adef2a5db1918ec213e9e3d46  usr/local/demo/application/camera/pictures/ST1077_webcam_dark_blue.png
+0bc53eed8a13fbd199d1018fa0835b0d  usr/local/demo/application/camera/shaders/edge_InvertLuma.fs

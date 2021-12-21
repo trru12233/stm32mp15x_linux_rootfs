@@ -1,0 +1,7 @@
+/.
+/etc
+/etc/my.cnf.d
+/etc/my.cnf.d/client.cnf
+/usr
+/usr/lib
+/usr/lib/libmariadb.so.3

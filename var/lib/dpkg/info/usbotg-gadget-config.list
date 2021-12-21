@@ -1,0 +1,12 @@
+/.
+/etc
+/lib
+/lib/systemd
+/lib/systemd/network
+/lib/systemd/network/53-usb-otg.network
+/lib/systemd/system
+/lib/systemd/system/usbotg-config.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-usbotg-gadget-config.preset
+/sbin
+/sbin/stm32_usbotg_eth_config.sh

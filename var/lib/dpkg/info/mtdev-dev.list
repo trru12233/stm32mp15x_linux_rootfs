@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/mtdev-mapping.h
+/usr/include/mtdev-plumbing.h
+/usr/include/mtdev.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/mtdev.pc
+/usr/lib/libmtdev.so

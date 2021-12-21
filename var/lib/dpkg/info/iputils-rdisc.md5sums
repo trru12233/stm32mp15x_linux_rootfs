@@ -1,0 +1,3 @@
+5eaf560e9945443ec3da6382b3ebdd5b  lib/systemd/system/rdisc.service
+4ecc380afad260b5310e051cb27b72dd  lib/systemd/system-preset/98-iputils-rdisc.preset
+49bc15d8c668e37b45b13dfd3d359d51  sbin/rdisc

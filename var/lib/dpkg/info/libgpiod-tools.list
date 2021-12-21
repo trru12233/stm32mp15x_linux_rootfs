@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/gpiodetect
+/usr/bin/gpiofind
+/usr/bin/gpioget
+/usr/bin/gpioinfo
+/usr/bin/gpiomon
+/usr/bin/gpioset

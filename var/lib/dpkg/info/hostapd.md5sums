@@ -1,0 +1,5 @@
+0112bcb0afde197404ebe9239e6463c0  etc/hostapd.conf
+976c9c8362e0db2d01f67334fef39097  lib/systemd/system/hostapd.service
+6d21d613057f8c6af363454777e6b0dc  lib/systemd/system-preset/98-hostapd.preset
+a3ca9a618343bb37685998b02182070b  usr/sbin/hostapd
+6e9dc3400dd254e27c5efb3415049ad4  usr/sbin/hostapd_cli

@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtQuick
+/usr/lib/qml/QtQuick/VirtualKeyboard
+/usr/lib/qml/QtQuick/VirtualKeyboard/Settings
+/usr/lib/qml/QtQuick/VirtualKeyboard/Settings/libqtquickvirtualkeyboardsettingsplugin.so
+/usr/lib/qml/QtQuick/VirtualKeyboard/Settings/plugins.qmltypes
+/usr/lib/qml/QtQuick/VirtualKeyboard/Settings/qmldir
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/libqtquickvirtualkeyboardstylesplugin.so
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/plugins.qmltypes
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/qmldir
+/usr/lib/qml/QtQuick/VirtualKeyboard/libqtquickvirtualkeyboardplugin.so
+/usr/lib/qml/QtQuick/VirtualKeyboard/plugins.qmltypes
+/usr/lib/qml/QtQuick/VirtualKeyboard/qmldir

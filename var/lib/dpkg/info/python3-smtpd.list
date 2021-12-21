@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.8
+/usr/lib/python3.8/__pycache__
+/usr/lib/python3.8/__pycache__/asynchat.cpython-38.opt-1.pyc
+/usr/lib/python3.8/__pycache__/asynchat.cpython-38.opt-2.pyc
+/usr/lib/python3.8/__pycache__/asynchat.cpython-38.pyc
+/usr/lib/python3.8/__pycache__/asyncore.cpython-38.opt-1.pyc
+/usr/lib/python3.8/__pycache__/asyncore.cpython-38.opt-2.pyc
+/usr/lib/python3.8/__pycache__/asyncore.cpython-38.pyc
+/usr/lib/python3.8/__pycache__/smtpd.cpython-38.opt-1.pyc
+/usr/lib/python3.8/__pycache__/smtpd.cpython-38.opt-2.pyc
+/usr/lib/python3.8/__pycache__/smtpd.cpython-38.pyc
+/usr/lib/python3.8/asynchat.py
+/usr/lib/python3.8/asyncore.py
+/usr/lib/python3.8/smtpd.py
